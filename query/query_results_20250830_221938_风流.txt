@@ -1,0 +1,180 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 一梦紫金
+Context:
+  - 兴亡都在桨声灯影里徘徊
+  - 那些面容籍籍无名或风流慷慨
+  - 又或是六朝往事中的几笔留白
+
+==========
+# 2
+Singer: filtered_songs
+Song: 万象霜天
+Context:
+  - 曾邂逅 是告诫亦是悠远的经咒
+  - 都化作 万物的风流
+  - 总试问 何所有
+
+==========
+# 3
+Singer: filtered_songs
+Song: 万梦星
+Context:
+  - 随手折花入海碗
+  - 是我风流不觉白头 不曾慵懒
+  - 闲敲檀板 问雪东栏
+
+==========
+# 4
+Singer: filtered_songs
+Song: 由此去
+Context:
+  - 独步上楼头呀 山河盈满袖
+  - 乘云略过十四州 一曲说风流
+  - 潇洒归来走 长空月带钩
+
+==========
+# 5
+Singer: filtered_songs
+Song: 逐浪飞花
+Context:
+  - [02:06.50]去或留 未看透
+  - [02:13.27]竟以死酬风流惹多少烦忧？
+  - [02:19.63]孤烟无垠万里沙 幸能与你踏
+
+==========
+# 6
+Singer: filtered_songs
+Song: 青蛇
+Context:
+  - 颠倒红尘迷了迷离眼色香
+  - 我悠悠荡荡 稳睡风流帐
+  - 恨情字鲁莽 往心口一撞
+
+==========
+# 7
+Singer: filtered_songs
+Song: 沧海飞尘
+Context:
+  - 我在风雨如晦中吟哦着诗文
+  - 猜测有多风流 有多桀骜 又奋不顾身
+  - 世间传闻你爱你恨
+
+==========
+# 8
+Singer: filtered_songs
+Song: 秦淮河边的陈年往事
+Context:
+  - 六朝金粉歌舞收，
+  - 铅华洗尽余风流，
+  - 自以浮生萍影，对天地悠悠。
+
+==========
+# 9
+Singer: filtered_songs
+Song: 千囍与手抄卷
+Context:
+  - 仔细尝一口 皱起了眉头
+  - 亭边送旧友 看书上多风流
+  - 文人闲着没事（儿） 干嘛消遣我
+
+==========
+# 10
+Singer: filtered_songs
+Song: 青山有剑
+Context:
+  - 夏蝉尽处青山秋
+  - 也曾白衣试剑扮风流
+  - 日与月山间轮转不休
+
+==========
+# 11
+Singer: filtered_songs
+Song: 好字唯之
+Context:
+  - 我乘扁舟 一叶过青山几叠
+  - 得天真自然 笔笔潦草也风流 谁能解
+  - 你看那 宇宙飞快 你别他又拜
+
+==========
+# 12
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 剑气侠气 典得几钱
+  - 天下风流赊欠
+  - 最是无价少年
+
+==========
+# 13
+Singer: filtered_songs
+Song: 旷古回响
+Context:
+  - 飞雪散 江山不夜  飘絮落入  名士的襟怀
+  - 松烟聚汇风流 在一方砚台
+  - 【诗 岸 】
+
+==========
+# 14
+Singer: filtered_songs
+Song: 白马入芦花
+Context:
+  - 三叠声里 缥缈梦冷冽 孤悬白月尖
+  - 一身风流上明殿 傲立君前
+  - 银碗盛雪 明月藏鹭 白马入芦花
+
+==========
+# 15
+Singer: filtered_songs
+Song: 天上掉下个林妹妹
+Context:
+  - 盟是从前许了应了风月旧题
+  - 别是如今怨呀恨呀风流云去
+  - 心肠性命 哪个由得自己
+
+==========
+# 16
+Singer: filtered_songs
+Song: 长相思
+Context:
+  - 无问流光回首
+  - 风流落幕 痴情人还依旧
+  - 汴水流 泗水流
+
+==========
+# 17
+Singer: filtered_songs
+Song: 永定四十年
+Context:
+  - 不群则狂 俗世人笑我簪花带酒
+  - 于意云何 青衫旧我自侧帽风流
+  - 打马过闹市少年白首
+
+==========
+# 18
+Singer: filtered_songs
+Song: 临川浮梦
+Context:
+  - 梦过无际闲云岫（xiù） 无拘春至秋 无愧逝水悠悠
+  - 一生清白月如钩 最一往而深著风流
+  - 倏尔惊醒窗前霜雪凛夜 浊世淹过喉
+
+==========
+# 19
+Singer: filtered_songs
+Song: 何必诗债换酒钱
+Context:
+  - 生就诗骨 算来三百篇
+  - 浪掷秦淮长安 风流李杜王白
+  - 余下十分 便随意肩上担
+
+==========
+# 20
+Singer: filtered_songs
+Song: 倾尽天下
+Context:
+  - 谁为你算的那一卦
+  - 最是无瑕 风流不假
+  - 画楼西畔反弹琵琶
+

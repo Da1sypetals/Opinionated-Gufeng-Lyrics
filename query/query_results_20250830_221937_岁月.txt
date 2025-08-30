@@ -1,0 +1,432 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 青白
+Context:
+  - 偏你这样美陪我这样缠
+  - 白&青：青山飞瀑渡千岁月华
+  - 白：舌尖之上绽放几瓣春花
+
+==========
+# 2
+Singer: filtered_songs
+Song: 红拂夜奔
+Context:
+  - 青春都奉上 色授魂与又怎样
+  - 将岁月分享
+  - 
+
+==========
+# 3
+Singer: filtered_songs
+Song: 山花寻海树
+Context:
+  - 光阴凝缩一掌
+  - 飘落在岁月悠长懵懂时光
+  - 浸湿眼眶
+
+==========
+# 4
+Singer: filtered_songs
+Song: 不老梦
+Context:
+  - 天光落笔波折
+  - 岁月都干涸
+  - 只剩别离来不及说
+
+==========
+# 5
+Singer: filtered_songs
+Song: 临安小记
+Context:
+  - 此身烟雨也漂离
+  - 刹那岁月何夕 云去无痕迹
+  - 
+
+==========
+# 6
+Singer: filtered_songs
+Song: 是风动 copy
+Context:
+  - 以为积雪成川有孤鸿不知疲倦
+  - 印下你岁月的足尖
+  - 聚似飞霜不肯融 散如尘埃各西东
+
+==========
+# 7
+Singer: filtered_songs
+Song: 飞雪落红尘
+Context:
+  - 【五音+小魂】
+  - 等我走过，寂寞长夜，岁月温柔天地旷远
+  - 只为在无人处与你并肩
+
+==========
+# 8
+Singer: filtered_songs
+Song: 千秋令
+Context:
+  - 九鼎静穆于史册
+  - 有三百篇温柔 岁月里颠簸
+  - 男：
+
+==========
+# 9
+Singer: filtered_songs
+Song: 依山观澜[无念白]
+Context:
+  - 无人与为伴
+  - 所以藏剑沉淀了岁月流年
+  - 欲求剑中法
+
+==========
+# 10
+Singer: filtered_songs
+Song: 珍珠
+Context:
+  - 少年成为他想要的模样
+  - 就是岁月最好奖赏
+  - 别叹息太多告别
+
+==========
+# 11
+Singer: filtered_songs
+Song: 墨-为龙
+Context:
+  - 烽燧上 战地的残阳
+  - 断刃旁 岁月悄然的流淌
+  - 十二章纹 你遥祭四望
+
+==========
+# 12
+Singer: filtered_songs
+Song: 敢归云间宿
+Context:
+  - 合眼识得星沉地动 也岿然不动
+  - 敢令岁月乌有 逍遥长驻 敢归云间宿
+  - 遥祝远行人 有道不孤
+
+==========
+# 13
+Singer: filtered_songs
+Song: 老街旧巷
+Context:
+  - 我偏爱
+  - 老街旧巷写满岁月的悠长
+  - 刻满了故事的古老弄堂
+
+==========
+# 14
+Singer: filtered_songs
+Song: 赴鸿门
+Context:
+  - 笔迹烟尘
+  - 岁月里消磨身份
+  - 
+
+==========
+# 15
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - 
+  - 他眼中 山川岁月空
+  - 他一笑 无痛亦无忧
+
+==========
+# 16
+Singer: filtered_songs
+Song: 秦淮河边的陈年往事
+Context:
+  - “从前有座山”专辑曲目
+  - 我走在岁月之后，
+  - 她坐在繁华尽头，
+
+==========
+# 17
+Singer: filtered_songs
+Song: 裁梦为魂
+Context:
+  - 目光肆意痴缠 搁笔晦暗
+  - 爱恋掩于岁月造梦万千
+  - 
+
+==========
+# 18
+Singer: filtered_songs
+Song: 风缘
+Context:
+  - 看着你 走过的地方山花绽放
+  - 岁月沧桑 一夕一朝
+  - 就在你身旁
+
+==========
+# 19
+Singer: filtered_songs
+Song: 花月成双
+Context:
+  - 花添香 彩满堂 捞月做陈酿
+  - 酿得 岁月都珍藏
+  - 珍藏每段好时光 不忘
+
+==========
+# 20
+Singer: filtered_songs
+Song: 海棠
+Context:
+  - 模仿他口吻
+  - 岁月的折痕
+  - 暖不过眉间清冷
+
+==========
+# 21
+Singer: filtered_songs
+Song: 流光记
+Context:
+  - 从那年同居长干里 琅琅到关雎
+  - 岁月走走停停 没写出游记
+  - 却把心事点一朵涟漪
+
+==========
+# 22
+Singer: filtered_songs
+Song: 你是我年少求剑时刻的舟
+Context:
+  - 那是我许多不眠夜燃的灯
+  - 鼎沸岁月这无量酒瓮
+  - 私藏的不朽
+
+==========
+# 23
+Singer: filtered_songs
+Song: 吹梦到西洲
+Context:
+  - 闹市无声 百态阴晴栩栩侔
+  - 藤衣半卷苔衣皱 岁月自无忧
+  - 
+
+==========
+# 24
+Singer: filtered_songs
+Song: 风起天阑
+Context:
+  - 血滚落尘土像那瞬艳烈
+  - 太遥远的岁月 看不清的眉睫
+  - 回忆尽头 风声依旧凛冽
+
+==========
+# 25
+Singer: filtered_songs
+Song: 谓我
+Context:
+  - 当我拨开眼前寂寥的渔樵耕读
+  - 残碑是岁月磨平的书
+  - 谁在陇间低吟离歌
+
+==========
+# 26
+Singer: filtered_songs
+Song: 大雪藏刀
+Context:
+  - 他志在荡平天下也放肆招摇
+  - 岁月偷藏了绝迹剑招
+  - 封存了骄傲
+
+==========
+# 27
+Singer: filtered_songs
+Song: 千盏灯 [纯歌版]
+Context:
+  - 三无Marblue：
+  - 白云下岁月温存
+  - 如梦还真
+
+==========
+# 28
+Singer: filtered_songs
+Song: 无题雪
+Context:
+  - 未肯半分输慨然
+  - 待到思念将岁月磨穿
+  - 人海不再掀起波澜
+
+==========
+# 29
+Singer: filtered_songs
+Song: 画廊游记
+Context:
+  - 十八岁少年阳光下剪影如残像
+  - 青年人被岁月推着走过场
+  - 暮年时影子像佝偻的山岗
+
+==========
+# 30
+Singer: filtered_songs
+Song: 故里逢春
+Context:
+  - 
+  - 风吹过 带走岁月蹉跎
+  - 花败落却成过错
+
+==========
+# 31
+Singer: filtered_songs
+Song: 湖心亭（纯歌版）
+Context:
+  - 离合与悲欢 不必讲
+  - 潮汐静如常 岁月猖狂
+  - 夜來風雨中 哪管花落滿衣裳
+
+==========
+# 32
+Singer: filtered_songs
+Song: 旷古回响
+Context:
+  - 【赤羽、海伊、星尘Minus、牧心】
+  - 千年后 谁将翻阅 指纹交叠 岁月的留辙
+  - 【大合唱】
+
+==========
+# 33
+Singer: filtered_songs
+Song: 云何住
+Context:
+  - -
+  - 也许是该喟叹岁月凛冽
+  - 终将抛去这段缱绻情劫
+
+==========
+# 34
+Singer: filtered_songs
+Song: 云山尽处
+Context:
+  - 命似衰草残云 亦是檩上钉
+  - 咬紧一身岁月 择一事长情
+  - 明知千崖难寻 偏爱苦旅泥泞
+
+==========
+# 35
+Singer: filtered_songs
+Song: 纸伞
+Context:
+  - 单薄了风月 磨蚀了青春
+  - 模糊了岁月 黯淡了我们
+  - 箫：居君裔
+
+==========
+# 36
+Singer: filtered_songs
+Song: 盛世回首
+Context:
+  - M：村头柳树，千枝垂发为谁留，
+  - 避过岁月，剃度长情的风头。
+  - 他站在前尘风口，进不去也不肯走，
+
+==========
+# 37
+Singer: filtered_songs
+Song: 三过门
+Context:
+  - 第二道门 红木檀香烛映深
+  - 燃着绵长岁月 深情里拥吻
+  - -M-
+
+==========
+# 38
+Singer: filtered_songs
+Song: 山湖共语
+Context:
+  - 十年长过一生 竟也能短至一瞬
+  - 万语千言不问 只轻叹 岁月留痕
+  - 步履 寸寸未停
+
+==========
+# 39
+Singer: filtered_songs
+Song: 三情旧雪
+Context:
+  - 
+  - 青史一层薄茧，岁月倒翻哭笔墨
+  - 当年万里伏麒麟，呼来凤凰诗下卧
+
+==========
+# 40
+Singer: filtered_songs
+Song: 易水诀
+Context:
+  - 慨然孤注手中棋
+  - 放浪形骸的江湖岁月
+  - 滚烫一点一滴
+
+==========
+# 41
+Singer: filtered_songs
+Song: 弦外知音
+Context:
+  - 
+  - 这一生久别重逢  总是不晚  岁月剪不断
+  - 知音相作伴  又何必婉转
+
+==========
+# 42
+Singer: filtered_songs
+Song: 是风动
+Context:
+  - 以为积雪成川有孤鸿不知疲倦
+  - 印下你岁月的足尖
+  - 聚似飞霜不肯融 散如尘埃各西东
+
+==========
+# 43
+Singer: filtered_songs
+Song: 瀘沽寻梦
+Context:
+  - 这一方风土名曰摩梭
+  - 日出而作 岁月如梭
+  - 那传说本不属于我
+
+==========
+# 44
+Singer: filtered_songs
+Song: 寻常歌
+Context:
+  - 万事逐流去，也顺遂也蹉跎
+  - 路比岁月长，心事更无从说
+  - 钟声夕阳外，落笔竟无措，
+
+==========
+# 45
+Singer: filtered_songs
+Song: 青白 copy
+Context:
+  - 偏你这样美陪我这样缠
+  - 白&青：青山飞瀑渡千岁月华
+  - 白：舌尖之上绽放几瓣春花
+
+==========
+# 46
+Singer: filtered_songs
+Song: 九万字
+Context:
+  - 谁能有幸 错付终身
+  - 幻想岁月无声
+  - 百年之后 合于一坟
+
+==========
+# 47
+Singer: filtered_songs
+Song: 锦鲤抄
+Context:
+  - 不如学着放下许多执念
+  - 以这断句残篇向岁月吊唁
+  - 老去的当年 水色天边
+
+==========
+# 48
+Singer: filtered_songs
+Song: 倾尽天下
+Context:
+  - 回到那一刹那
+  - 岁月无声也让人害怕
+  - 枯藤长出枝桠
+

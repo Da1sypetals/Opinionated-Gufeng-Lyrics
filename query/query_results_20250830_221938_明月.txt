@@ -1,0 +1,216 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 苏州慢
+Context:
+  - 不觉冬来风浩荡，冻梅吹起白雪浪
+  - 眼底无限旷然夜，头顶一色明月光
+  - 明夜此刻到何乡
+
+==========
+# 2
+Singer: filtered_songs
+Song: 万象霜天
+Context:
+  - （天地虽大 其化均也 万物虽多 其治一也 四达通流 无所不及 执守无心 动以天行）
+  - 水中明月又一片
+  - 心上尘埃只一叶
+
+==========
+# 3
+Singer: filtered_songs
+Song: 万梦星
+Context:
+  - 归去千灯乍灭雨潇潇
+  - 邀松间明月来相照
+  - 
+
+==========
+# 4
+Singer: filtered_songs
+Song: 人间最值得
+Context:
+  - 门边青梅尚小 借谁回首偷瞧【李清照-倚门回首，却把青梅嗅】
+  - 当时明月今夜在将哪处故人照照【晏几道-当时明月在，曾照彩云归】
+  - 故乡他乡走一遭 心安处最是好【苏轼-此心安处是吾乡】
+
+==========
+# 5
+Singer: filtered_songs
+Song: 四万秋
+Context:
+  - 一阕曲罢 倚楼春望日将斜
+  - 十里秦淮 明月夜
+  - 待飞鸿影下 朝暮到白发
+
+==========
+# 6
+Singer: filtered_songs
+Song: 如梦令
+Context:
+  - 是不敢去叹言的伤
+  - 满西楼未必有明月光
+  - 或许南燕纷飞泪别了年少痴狂
+
+==========
+# 7
+Singer: filtered_songs
+Song: 烈火青莲
+Context:
+  - 钟磬一撞古井则波
+  - 那时明月留痕白云耕破
+  - 枯荣不尽时日无多
+
+==========
+# 8
+Singer: filtered_songs
+Song: 不良人
+Context:
+  - 一任年华过
+  - 温柔了杯中 三分明月落
+  - 红尘难看破 善恶无定夺
+
+==========
+# 9
+Singer: filtered_songs
+Song: 水叙湖风
+Context:
+  - 曾是踏霜而来 断桥摘残雪
+  - 点起灯烛明灭 照三分明月
+  - 又或荡舟归却 记几时流连
+
+==========
+# 10
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - （皎皎）
+  - 是明月
+  - （探向有情人照）
+
+==========
+# 11
+Singer: filtered_songs
+Song: 楚歌起
+Context:
+  - 
+  - 远山吹角明月出 月下曾击鼓
+  - 
+
+==========
+# 12
+Singer: filtered_songs
+Song: 惊鹊
+Context:
+  - 小楼看平川外尽是郊野
+  - 浮云来遮明月惊了乌鹊
+  - 却向何处找寻我的人间
+
+==========
+# 13
+Singer: filtered_songs
+Song: 始见千秋
+Context:
+  - “走马赴秦川，八百里，旧河山，
+  - 问几时明月几尘关。”
+  - 【音频怪物】
+
+==========
+# 14
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 随细雨赠饮知交两三
+  - 载梦行船 渡明月老河山
+  - 此去不历遍盛景不靠岸
+
+==========
+# 15
+Singer: filtered_songs
+Song: 良辰夜
+Context:
+  - 
+  - 回头看 繁华如梦 烟火纷纷照明月
+  - 落在他眼角 最温柔一瞥
+
+==========
+# 16
+Singer: filtered_songs
+Song: 紫禁城里的似水流年
+Context:
+  - 看它一片一片落在 掌心之外
+  - 一座梦中楼台 一轮明月徘徊
+  - 还憎恶苍白 舍不得褪去 胭脂粉黛
+
+==========
+# 17
+Singer: filtered_songs
+Song: 白马入芦花
+Context:
+  - 一身风流上明殿 傲立君前
+  - 银碗盛雪 明月藏鹭 白马入芦花
+  - 十八拍清笳 征人提灯走天涯
+
+==========
+# 18
+Singer: filtered_songs
+Song: 葬花词
+Context:
+  - -
+  - 风回小庭逐明月
+  - 只身似飘蓬倦未歇
+
+==========
+# 19
+Singer: filtered_songs
+Song: 望江亭
+Context:
+  - （樊宁）
+  - 中秋 明月 江波
+  - 与你看潮起潮落
+
+==========
+# 20
+Singer: filtered_songs
+Song: 山湖共语
+Context:
+  - 穿过光阴利刃 不曾撼动的心魂
+  - 却为 清秋一程 明月一轮
+  - 还能照向身边人
+
+==========
+# 21
+Singer: filtered_songs
+Song: 永定四十年
+Context:
+  - 打马过闹市少年白首
+  - 人声之外明月左右 河汉浅浅 星辰清秀
+  - 低眉抬手 送陈酿酣然一杯入口
+
+==========
+# 22
+Singer: filtered_songs
+Song: 九万字
+Context:
+  - 
+  - 我爱你苍凉双眼 明月星辰
+  - 不远万里 叩入心门
+
+==========
+# 23
+Singer: filtered_songs
+Song: 白衣
+Context:
+  - 谁曾在城门深雨中，寻觅过我
+  - 雕得古拙的山水，夜把明月照
+  - 我留下传唱的歌谣多少
+
+==========
+# 24
+Singer: filtered_songs
+Song: 倾尽天下
+Context:
+  - 终是为你 覆了天下
+  - 明月照亮天涯
+  - 最后谁又 得到了蒹葭
+

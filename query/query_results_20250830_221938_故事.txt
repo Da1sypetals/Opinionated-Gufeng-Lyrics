@@ -1,0 +1,197 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 双抛桥
+Context:
+  - 它偶然飘落入梦中
+  - 前尘多少故事曾翻涌
+  - 那夜霜重露正浓
+
+==========
+# 2
+Singer: filtered_songs
+Song: 四万秋
+Context:
+  - 文案故事：左木修
+  - 
+
+==========
+# 3
+Singer: filtered_songs
+Song: 拉萨乱雪
+Context:
+  - 传说中的爱向来美得很遥远
+  - 故事结束 谁也无言
+  - 抬头却看见了不一样的蓝天
+
+==========
+# 4
+Singer: filtered_songs
+Song: 老街旧巷
+Context:
+  - 老街旧巷写满岁月的悠长
+  - 刻满了故事的古老弄堂
+  - 飘荡固城湖的金陵水乡
+
+==========
+# 5
+Singer: filtered_songs
+Song: 刚烈女子
+Context:
+  - 那个朝代所谓爱情都奢侈
+  - 写个故事 说给后世
+  - 我要高歌 是世俗误我
+
+==========
+# 6
+Singer: filtered_songs
+Song: 故事外的人
+Context:
+  - 没太多朋友 也无所谓忧欢
+  - 听了几个故事 正好讲给你玩
+  - 小儿女偷学过长生殿
+
+==========
+# 7
+Singer: filtered_songs
+Song: 若风起时
+Context:
+  - 若非巫山云起
+  - 不忍续写故事
+  - 一篇我陈词
+
+==========
+# 8
+Singer: filtered_songs
+Song: 赴鸿门
+Context:
+  - 蝉鸣雪深
+  - 故事里无从相认
+  - 
+
+==========
+# 9
+Singer: filtered_songs
+Song: 雪落在先生肩上
+Context:
+  - 多少歌需要悲 多少痛值得泪
+  - 故事外 想起谁
+  - 雪花飞
+
+==========
+# 10
+Singer: filtered_songs
+Song: 盗墓笔记·十年人间
+Context:
+  - 到最后竟庆幸于夕阳 仍留在身上
+  - 来不及讲 故事多跌宕
+  - 有最奇崛的峰峦 成全过你我张狂
+
+==========
+# 11
+Singer: filtered_songs
+Song: 裁梦为魂
+Context:
+  - 与薛梦梅交好，互引为知己，于唱腔、道白、行头等皆有所评。薛大家回京后盛名如炽、风头无两，嫁与门阀世族后鲜少露面。
+  - 乙巳年春，董小妹所著《梦川奇谭》付梓，其中鬼怪性情多变，故事诡谲称奇，朝野争先抢读，书肆竞相传抄，一时为之纸贵。
+  - 董小妹因此与沈燃灯、苏莲岂并称为“怪谈三家”。虽声名鹊起，董小妹独居到老，孤坟空碑沦为不解之谜。
+
+==========
+# 12
+Singer: filtered_songs
+Song: 无题戏
+Context:
+  - 渺渺一眼相逢 匆匆问来意
+  - 万千故事动听 却无关于你
+  - 朝朝暮暮 遥遥相期
+
+==========
+# 13
+Singer: filtered_songs
+Song: 惊鹊
+Context:
+  - 是你么，青衫走马上天街
+  - 在梦中故事里可曾相见
+  - 
+
+==========
+# 14
+Singer: filtered_songs
+Song: 扶摇
+Context:
+  - 却漂亮
+  - 故事的脚步沾满世俗泥土
+  - 燃尽的蜡烛曾照亮过夜幕
+
+==========
+# 15
+Singer: filtered_songs
+Song: 何日重到苏澜桥
+Context:
+  - 都去得匆匆，却恨谁背影太从容
+  - 这故事，难道无关痒痛
+  - 来势汹汹
+
+==========
+# 16
+Singer: filtered_songs
+Song: 云何住
+Context:
+  - -
+  - 故事总是不必追问开头
+  - 旁人也总爱沉溺于荒谬
+
+==========
+# 17
+Singer: filtered_songs
+Song: 山湖共语
+Context:
+  - 再抬眼 他却没入熙攘人烟
+  - 故事 声声仍听
+  - 十年长过一生 竟也能短至一瞬
+
+==========
+# 18
+Singer: filtered_songs
+Song: 我的一个道姑朋友
+Context:
+  - （C）2007 by NBCUniversal Entertainment Japan,LLC，Sony Music Publishing (Japan) Inc. & PONY CANYON MUSIC INC.
+  - 故事背景来源：《剑侠情缘网络版叁》（简称《剑网3》）
+  - 企划/出品：三糙文化 / NEGIA纳吉音
+
+==========
+# 19
+Singer: filtered_songs
+Song: 红白
+Context:
+  - 
+  - 故事弥留在 太擅于沉默的时代
+  - 追溯纤细的 都来不及留白
+
+==========
+# 20
+Singer: filtered_songs
+Song: 朝露人间
+Context:
+  - 各自不顾一切地奔向
+  - 故事刚开始的地方
+  - 最终我们会相拥着重逢
+
+==========
+# 21
+Singer: filtered_songs
+Song: 心上秋
+Context:
+  - 刹那美人成东施
+  - 就中的故事，岂止一人痴
+  - 落款谁提了名氏
+
+==========
+# 22
+Singer: filtered_songs
+Song: 白衣
+Context:
+  - 今夜的灯油已经烧干
+  - 故事我还没写完一半
+  - 过去谁帮我杜撰
+

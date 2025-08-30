@@ -1,0 +1,170 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 人间最值得
+Context:
+  - 放良辰良友并良缘 与我多圆满
+  - 这江山不落款江湖不落单
+  - 这人间 相逢你我 落座谈一谈
+
+==========
+# 2
+Singer: filtered_songs
+Song: 木兰行
+Context:
+  - 卸发拔剑舞，竟披戎服，慷慨奔赴
+  - 扬鞭策过江湖，仰望天地朝暮，黄沙涌没马足，随处是白骨
+  - 我见朔风吹拂，我见胡骑报复，都化作一剑出
+
+==========
+# 3
+Singer: filtered_songs
+Song: 逐浪飞花
+Context:
+  - 有人说 江湖是开了一坛陈酒
+  - 蕴藏春秋才敢敬旧敌新友
+
+==========
+# 4
+Singer: filtered_songs
+Song: 古龙群侠传
+Context:
+  - 看海阔云高波澜生
+  - 人说江湖浪涌最多无畏的人
+  - 来三钱热酒买我的心魂
+
+==========
+# 5
+Singer: filtered_songs
+Song: 不良人
+Context:
+  - 千秋怎落墨？
+  - 画江湖 提笔将此生勾勒
+  - 
+
+==========
+# 6
+Singer: filtered_songs
+Song: 山河人间【纯歌版】
+Context:
+  - 立道 君山永伫而闻
+  - 浑作无钱讨酒 江湖隐于市村
+  - 是义 无愧问心者诚
+
+==========
+# 7
+Singer: filtered_songs
+Song: 来都来了
+Context:
+  - 来都来了 好赖打发舌尖
+  - 温两碗江湖水 要一碟烤星星
+  - 但凡你多吃几粒 想侃上天就不容易
+
+==========
+# 8
+Singer: filtered_songs
+Song: 千盏灯 [纯歌版]
+Context:
+  - 佑可猫：
+  - 江湖又几度浮沉
+  - 匆匆此身
+
+==========
+# 9
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 我闻 雨落剑声 风振弦动 平生掷骁勇
+  - 应君再向江湖寄游踪
+  - 枫红似燃 飞花如霰
+
+==========
+# 10
+Singer: filtered_songs
+Song: 黯然销魂
+Context:
+  - 情深一寸伤多一分
+  - 如梦江湖如戏人生是我沉沦
+  - 
+
+==========
+# 11
+Singer: filtered_songs
+Song: 湖心亭（纯歌版）
+Context:
+  - 相逢与散场 不许谈
+  - 人生若江湖 一晌贪欢
+  - 若无千金酿
+
+==========
+# 12
+Singer: filtered_songs
+Song: 何日重到苏澜桥
+Context:
+  - 故人依稀天边去，十年孤襟迎秋风
+  - 江湖每逢一夜雨，为谁鞍前系灯笼
+  - 放眼去，山外添了几点归鸿
+
+==========
+# 13
+Singer: filtered_songs
+Song: 典狱司 [live 2021新年演唱会]
+Context:
+  - 怕是大梦一场起
+  - 君啊江湖从此离
+  - 看过故人终场戏
+
+==========
+# 14
+Singer: filtered_songs
+Song: 祖籁
+Context:
+  - 录音棚 Recording Studio: 禾声稻场录音棚
+  - 监制 Executive Producer：左木修/网易一梦江湖
+  - OP：黄诗扶工作室
+
+==========
+# 15
+Singer: filtered_songs
+Song: 落霞云归
+Context:
+  - 猎猎红衣飞袖入梦里
+  - 江湖厮杀 刀剑无情君且随意
+  - 
+
+==========
+# 16
+Singer: filtered_songs
+Song: 易水诀
+Context:
+  - 慨然孤注手中棋
+  - 放浪形骸的江湖岁月
+  - 滚烫一点一滴
+
+==========
+# 17
+Singer: filtered_songs
+Song: 故城
+Context:
+  - 
+  - 莫道江湖少忧患 闲逸惯
+  - 心写忠字笔画何曾乱 不语不是情淡
+
+==========
+# 18
+Singer: filtered_songs
+Song: 我的一个道姑朋友
+Context:
+  - 山门外 雪拂过白衣 又在指尖消融
+  - 负长剑 试问江湖阔大 该何去何从
+  - 今生至此 像个笑话一样 自己都嘲讽
+
+==========
+# 19
+Singer: filtered_songs
+Song: 瀘沽寻梦
+Context:
+  - 船家停泊靠岸那一刻
+  - 仿佛前世江湖我来过
+  - 白裙红衣的姑娘桥上婀娜
+

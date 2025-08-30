@@ -1,0 +1,161 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 折柳记
+Context:
+  - 
+  - 春色留待醒后细看 郎君先向梦里窥
+  - 鬓隔了花 花隔了水 水绕山连隔了他一双眉
+
+==========
+# 2
+Singer: filtered_songs
+Song: 三月雨
+Context:
+  - 漾起心湖水中影
+  - 回首你我曾经在梦里
+  - 仍纯净似琉璃
+
+==========
+# 3
+Singer: filtered_songs
+Song: 敢归云间宿
+Context:
+  - 月 悬在人世沧流
+  - 空杯如行舟 浪荡醉梦里走
+  - 心 生自混沌尽头
+
+==========
+# 4
+Singer: filtered_songs
+Song: 今日无事
+Context:
+  - 昨夜聚散终了了
+  - 梦里梦外不复扰
+  - 
+
+==========
+# 5
+Singer: filtered_songs
+Song: 风烟之末
+Context:
+  - 河图：我沉睡于河山灯火
+  - 梦里年少天高海阔
+  - 不信这世间的传说
+
+==========
+# 6
+Singer: filtered_songs
+Song: 拉萨乱雪
+Context:
+  - 醒来时忘记了夜间风雪
+  - 只是在梦里多了一些感觉
+  - 总会有一天都慢慢不见
+
+==========
+# 7
+Singer: filtered_songs
+Song: 裁梦为魂
+Context:
+  - 
+  - “我多想再一次见到你，哪怕是在梦里，告诉你，告诉你，我为你雕刻了一支木钗，你戴上一定很好看。试一试，好不好？”
+  - 
+
+==========
+# 8
+Singer: filtered_songs
+Song: 无题戏
+Context:
+  - 飘飘摇摇 点点滴滴
+  - 梦里如往 梦里草木深
+  - 何年何月在何方 我与他遥遥相望
+
+==========
+# 9
+Singer: filtered_songs
+Song: 迟迟
+Context:
+  - 掀起红妆那一瞬间，他莞然笑的脸
+  - 在梦里我已吻了千万遍
+  - 
+
+==========
+# 10
+Singer: filtered_songs
+Song: 失调名
+Context:
+  - （女）
+  - 诗里空来梦里真
+  - 眉边袅袅多情人
+
+==========
+# 11
+Singer: filtered_songs
+Song: 扶摇
+Context:
+  - 在我梦里花开的地方
+  - 谁曾经被风湿润过眼眶
+
+==========
+# 12
+Singer: filtered_songs
+Song: 三过门
+Context:
+  - 跨过第几扇门 才算造访过旧人
+  - 灯影憧憧 照不穿梦里红尘
+  - 浮光滚滚 怪我痴狂又愚蠢
+
+==========
+# 13
+Singer: filtered_songs
+Song: 玉簪记Remix
+Context:
+  - W：
+  - 云水隔在梦里枕
+  - 落红无意觅春恨
+
+==========
+# 14
+Singer: filtered_songs
+Song: 葬花词
+Context:
+  - 也作风露辞寒春
+  - 往事空照梦里人
+  - 庭阶藓生，玉楼埋沉
+
+==========
+# 15
+Singer: filtered_songs
+Song: 落霞云归
+Context:
+  - 曾与世为敌 沉醉不归去
+  - 猎猎红衣飞袖入梦里
+  - 江湖厮杀 刀剑无情君且随意
+
+==========
+# 16
+Singer: filtered_songs
+Song: 易水诀
+Context:
+  - 仓促梦 狼藉盏
+  - 梦里朗笑归远帆
+  - 共睹你舍身相护的河山
+
+==========
+# 17
+Singer: filtered_songs
+Song: 蝶梦
+Context:
+  - 前世鸳盟 今生难续
+  - 只愿蝴蝶梦里 千世万代不分离
+  - 
+
+==========
+# 18
+Singer: filtered_songs
+Song: 瀘沽寻梦
+Context:
+  - 舟中吾且作远来客
+  - 梦里一碗青稞酒接过
+  - 辗转欲寻梦外的篝火
+

@@ -1,0 +1,319 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 苏州慢
+Context:
+  - 乌篷转桨晃一晃，春风牵衣过平江
+  - 停船泊岸寻向桥前问，枕河人家多少巷
+
+==========
+# 2
+Singer: filtered_songs
+Song: 上邪
+Context:
+  - 那一年的长安飞花漫天
+  - 我听见塞外春风泣血
+  - 轻嗅风中血似酒浓烈
+
+==========
+# 3
+Singer: filtered_songs
+Song: 万梦星
+Context:
+  - 
+  - 是渴饮朝露浅尝春风
+  - 开宴煮酒酬客 秋水残红
+
+==========
+# 4
+Singer: filtered_songs
+Song: 红拂夜奔
+Context:
+  - 春风被囚于轩窗
+  - 与我两两相忘
+
+==========
+# 5
+Singer: filtered_songs
+Song: 人间最值得
+Context:
+  - 春风送暖先到 旧符改换新桃【王安石-元日】
+  - 算些浮名正好 来浅斟低唱新曲调【柳永-忍把浮名，换了浅斟低唱】
+
+==========
+# 6
+Singer: filtered_songs
+Song: 由此去
+Context:
+  - 少年苍发尾
+  - 春风忽然吹 卷起了衣袂
+  - 阶前身不回
+
+==========
+# 7
+Singer: filtered_songs
+Song: 木兰行
+Context:
+  - 抛掷前生如故，洗净明珠，不屑荣辱
+  - 豪气力挽山湖，春风代渡
+  - 游丝投机杼，木兰当户，为拆解歧途
+
+==========
+# 8
+Singer: filtered_songs
+Song: 是风动 copy
+Context:
+  - 你是我身外 化白云任去来
+  - 推开孤城万里 吹渡春风几千载
+  - 我是你途中 有青山撞入怀
+
+==========
+# 9
+Singer: filtered_songs
+Song: 三月雨
+Context:
+  - 烟水蒙蒙微醺谁人醉
+  - 春风吹
+  - 山路重重飘渺难回
+
+==========
+# 10
+Singer: filtered_songs
+Song: 千秋令
+Context:
+  - 我悲我恋 亦有满腔赤诚为利剑
+  - 春风比肩 何惧向人间
+  - (music)
+
+==========
+# 11
+Singer: filtered_songs
+Song: 花与酒
+Context:
+  - 重逢在，人间花与酒。
+  - 多少年春风桃李，挑灯看夜雨，
+  - 若传奇当重启，浮生也不寂。
+
+==========
+# 12
+Singer: filtered_songs
+Song: 敢归云间宿
+Context:
+  - 肩背相抵破阵开路 万古同歌哭
+  - 纵他春风不度 悲欢蚀骨 此去宁作吾
+  - 挣过命途 才敢写荣枯
+
+==========
+# 13
+Singer: filtered_songs
+Song: 烈火青莲
+Context:
+  - 要殉在下落不明最荒芜山海边
+  - 为春风付之一焰
+  - 是你曾试想不辞而别离开我
+
+==========
+# 14
+Singer: filtered_songs
+Song: 水叙湖风
+Context:
+  - 记得云在枕侧青巾微斜
+  - 依旧春风送我繁花未歇
+  - 烟雨笼寒夜 知己把酒樽前
+
+==========
+# 15
+Singer: filtered_songs
+Song: 今日无事
+Context:
+  - 
+  - 尘不到，时时自有春风扫
+  - 贪梦好，茫然忘了邯郸道
+
+==========
+# 16
+Singer: filtered_songs
+Song: 竹林间
+Context:
+  - 放了萦思且濯缨清泉
+  - 披襟送来春风轻扫了喧阗
+  - 拨捻起复苏的时节
+
+==========
+# 17
+Singer: filtered_songs
+Song: 无处不青山
+Context:
+  - 今夜何须怀明日 前路远
+  - 春风又绿江南岸
+  - 歌一阙酒一盏
+
+==========
+# 18
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - 他眼中 山川岁月空
+  - 胜过 春色春风花红
+  - 要等谁 醉一场约定的梦
+
+==========
+# 19
+Singer: filtered_songs
+Song: 雪落在先生肩上
+Context:
+  - 寻一个降落的地方
+  - 你听那春风吹 你看那月光微
+  - 他抬手拂去尘世灰
+
+==========
+# 20
+Singer: filtered_songs
+Song: 沧海飞尘
+Context:
+  - 是重名的乱世萍水
+  - 像春风夜雨谈及东海有惊雷
+  - 又相见恨晚于华灯鼎沸
+
+==========
+# 21
+Singer: filtered_songs
+Song: 眉南边
+Context:
+  - 
+  - 烛星万点 春风一扇
+  - 遮颜 遮眼 看不见
+
+==========
+# 22
+Singer: filtered_songs
+Song: 惊鹊
+Context:
+  - 【合】
+  - 白马过了离原，三月的天，春风漫草野
+  - 谁隔着那么远，仰头看纸鸢
+
+==========
+# 23
+Singer: filtered_songs
+Song: 你是我年少求剑时刻的舟
+Context:
+  - 都怀念良久
+  - 后来我单枪匹马去听春风
+  - 去看错过的世间种种
+
+==========
+# 24
+Singer: filtered_songs
+Song: 风起天阑
+Context:
+  - 用最平淡话语 藏住旧日誓约
+  - 春风绿过柳叶 你曾笑得无邪
+  - 太遥远的岁月 看不清的眉睫
+
+==========
+# 25
+Singer: filtered_songs
+Song: 谓我
+Context:
+  - 余归故里 春风不识路
+  - 丛生黍稷 此身在何处
+
+==========
+# 26
+Singer: filtered_songs
+Song: 好字唯之
+Context:
+  - 
+  - 春风度会稽 处处人间
+  - 开一砚快雪 润蚕茧
+
+==========
+# 27
+Singer: filtered_songs
+Song: 一命矣
+Context:
+  - 等你站稳你要的旷野
+  - 一呵春风冬已竭
+  - 允许自己自在地盈缺
+
+==========
+# 28
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 桃花煮酒 春风开宴
+  - 剑气侠气 典得几钱
+
+==========
+# 29
+Singer: filtered_songs
+Song: 千秋迭梦（和声伴奏）
+Context:
+  - 【陈亦洺】
+  - 与春风过招却惊了卖花人
+  - 燕子来去又一年长进几寸
+
+==========
+# 30
+Singer: filtered_songs
+Song: 云山尽处
+Context:
+  - 捡起路边风吹浪打 人烟漫漫
+  - 舐月华浓淡 捉春风补衫
+  - 赊来一岁一岁欢
+
+==========
+# 31
+Singer: filtered_songs
+Song: 人间应又雪
+Context:
+  - 独谁却说 意气与我倾
+  - 何以当年天阶 曾同行，春风里 同饮
+  - 如今等闲飘零，茫茫浔江滨
+
+==========
+# 32
+Singer: filtered_songs
+Song: 我的一个道姑朋友
+Context:
+  - 你眼中有柔情千种
+  - 如脉脉春风 冰雪也消融
+  - 
+
+==========
+# 33
+Singer: filtered_songs
+Song: 心上诗
+Context:
+  - 三月樱桃催红枝
+  - 是小径寻芳，春风寻诗
+  - 料想相逢也如是
+
+==========
+# 34
+Singer: filtered_songs
+Song: 是风动
+Context:
+  - 你是我身外 化白云任去来
+  - 推开孤城万里 吹渡春风几千载
+  - 我是你途中 有青山撞入怀
+
+==========
+# 35
+Singer: filtered_songs
+Song: 何必诗债换酒钱
+Context:
+  - 镜湖桌 白梅盏
+  - 等来春风恰开宴
+  - 黄诗扶（妖扬）：
+
+==========
+# 36
+Singer: filtered_songs
+Song: 寻常歌
+Context:
+  - 钟声夕阳外，落笔竟无措，
+  - 只敢问春风如何
+  - 昨夜梦回中，推窗见小村落
+

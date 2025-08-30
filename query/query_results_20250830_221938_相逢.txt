@@ -1,0 +1,260 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 万象霜天
+Context:
+  - （说起此间） 似水的善意不相争 都从容
+  - （行路之上） 辩日无言岂是 偶相逢
+  - （人间琐事） 管中窥得更多差错 总异同
+
+==========
+# 2
+Singer: filtered_songs
+Song: 双抛桥
+Context:
+  - 那夜霜重露正浓
+  - 若生离难与他相逢
+  - 惟死别才能够相认
+
+==========
+# 3
+Singer: filtered_songs
+Song: 人间最值得
+Context:
+  - 这江山不落款江湖不落单
+  - 这人间 相逢你我 落座谈一谈
+  - 
+
+==========
+# 4
+Singer: filtered_songs
+Song: 不老梦
+Context:
+  - 
+  - 于万人中万幸得以相逢
+  - 刹那间澈净明通
+
+==========
+# 5
+Singer: filtered_songs
+Song: 古龙群侠传
+Context:
+  - 道  莫急莫停莫转身
+  - 狭路相逢莫论归程
+  - 莫问  有谁在等
+
+==========
+# 6
+Singer: filtered_songs
+Song: 红尘共长生
+Context:
+  - 白梅为剑雪纷纷，向死如能忘却生
+  - 梦魂相逢也该 奋不顾身
+  - 【KB+哦漏】
+
+==========
+# 7
+Singer: filtered_songs
+Song: 山河人间【纯歌版】
+Context:
+  - 过客与归人
+  - 自珍重 山河别后 人间相逢
+  - 谁回身 沧海一瞬
+
+==========
+# 8
+Singer: filtered_songs
+Song: 一首想不通的古风
+Context:
+  - 合：我想不想不通 我想不想不通
+  - 为何要与你相逢
+  - 
+
+==========
+# 9
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - 银汉迢迢暗度
+  - 金风玉露一相逢，胜却人间无数
+  - 念念不忘心意自相通
+
+==========
+# 10
+Singer: filtered_songs
+Song: 秦淮河边的陈年往事
+Context:
+  - 自以浮生萍影，对天地悠悠。
+  - 相逢一笑劫波后，
+  - 万里山川皆依旧，
+
+==========
+# 11
+Singer: filtered_songs
+Song: 裁梦为魂
+Context:
+  - 薄雪无名枯山
+  - 你我相逢于粗茶一碗
+  - 云檐下流转眉眼
+
+==========
+# 12
+Singer: filtered_songs
+Song: 海棠
+Context:
+  - 寻不到的初衷
+  - 绿荫处相逢
+  - 
+
+==========
+# 13
+Singer: filtered_songs
+Song: 无题戏
+Context:
+  - 行云撞破青山 点染成新迹
+  - 渺渺一眼相逢 迢迢涉光阴
+  - 或是朝花难寄 旧梦还无题
+
+==========
+# 14
+Singer: filtered_songs
+Song: 你是我年少求剑时刻的舟
+Context:
+  - 每一座山峰
+  - 要这千里迢迢相逢
+  - 幸而来日无穷
+
+==========
+# 15
+Singer: filtered_songs
+Song: 丹心鉴
+Context:
+  - 宣和后，争赋凄凄御河柳
+  - 采薇松山荒丘，相逢多是旧国手
+  - 此身休便休，岂可，方辞汉，又朝周？
+
+==========
+# 16
+Singer: filtered_songs
+Song: 无题雪
+Context:
+  - 也可以挥刀见血眉不蹙
+  - 却无力撞开命运墙垣奔向红尘相逢处
+  - 衷情倾诉
+
+==========
+# 17
+Singer: filtered_songs
+Song: 如见青山
+Context:
+  - 千里快风送我过津关
+  - 谁怕人生到处相逢难
+  - 知己一程何必多善感
+
+==========
+# 18
+Singer: filtered_songs
+Song: 失调名
+Context:
+  - 惊醒旧忆观似梦
+  - 垂摆柳下初相逢
+  - 妄至白头翁
+
+==========
+# 19
+Singer: filtered_songs
+Song: 湖心亭（纯歌版）
+Context:
+  - 
+  - 相逢与散场 不许谈
+  - 人生若江湖 一晌贪欢
+
+==========
+# 20
+Singer: filtered_songs
+Song: 何日重到苏澜桥
+Context:
+  - 或春水化雪，或冰河解冻，或万仞云宫
+  - 犹记哪一处相逢？
+  - 谁曾说，云垂多少往事倥偬
+
+==========
+# 21
+Singer: filtered_songs
+Song: 良辰夜
+Context:
+  - 
+  - 我惊觉 今生相逢 是奔赴宿命之约
+  - 天地颠倒 一生还一夜
+
+==========
+# 22
+Singer: filtered_songs
+Song: 纸伞
+Context:
+  - 再借一个最无瑕眼神
+  - 一生相逢 一瞬心动 一双人
+  - 红尘滚滚 目送冬与春
+
+==========
+# 23
+Singer: filtered_songs
+Song: 祖籁
+Context:
+  - （摇枝传钟 竽箫笙鼓 敬鬼神倥偬）
+  - 踏歌声 吟唱山水会相逢
+  - （踏歌声 吟唱山水会相逢）
+
+==========
+# 24
+Singer: filtered_songs
+Song: 多情岸（洛天依原创）
+Context:
+  - 天地冥冥之中静待谁，如约而至得悄然，
+  - 只与我，相逢洛水之岸。
+  - 
+
+==========
+# 25
+Singer: filtered_songs
+Song: 三情旧雪
+Context:
+  - 扑火红尘，长夜惊动，凛冽眉边鬓上风
+  - 回首春秋一痛喝，与人间再相逢
+
+==========
+# 26
+Singer: filtered_songs
+Song: 我的一个道姑朋友
+Context:
+  - 以长剑为碑 以霜雪为冢
+  - 此生若是错在相逢
+  - 求一个善终
+
+==========
+# 27
+Singer: filtered_songs
+Song: 心上诗
+Context:
+  - 是小径寻芳，春风寻诗
+  - 料想相逢也如是
+  - 落笔依稀在相思
+
+==========
+# 28
+Singer: filtered_songs
+Song: 丹青客
+Context:
+  - 平地风波
+  - 卷飘零之身相逢于落寞
+  - 同行绝地才知进退无措
+
+==========
+# 29
+Singer: filtered_songs
+Song: 浮生辞
+Context:
+  - 最是等闲了爱恨
+  - 一笑相逢
+  - 二字留温存
+

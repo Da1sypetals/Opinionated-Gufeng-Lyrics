@@ -9,7 +9,8 @@ def search_lyrics(directory, query_word):
     """
     # Generate output filename with timestamp and query word
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = f"query_results_{timestamp}_{query_word}.txt"
+    os.makedirs("query", exist_ok=True)
+    output_filename = os.path.join("query", f"query_results_{timestamp}_{query_word}.txt")
 
     with open(output_filename, "w", encoding="utf-8") as output_file:
         # Traverse the lyrics directory

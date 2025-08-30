@@ -1,0 +1,224 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 上邪
+Context:
+  - 你嫁衣如火灼伤了天涯
+  - 从此残阳烙我心上如朱砂
+  - 都说你眼中开倾世桃花
+
+==========
+# 2
+Singer: filtered_songs
+Song: 万象霜天
+Context:
+  - 水中明月又一片
+  - 心上尘埃只一叶
+  - 提指拈花却一线 恍然一念间
+
+==========
+# 3
+Singer: filtered_songs
+Song: 红拂夜奔
+Context:
+  - 偶遇少年郎 谁是谁惊鸿一场
+  - 追心上月亮
+  - 
+
+==========
+# 4
+Singer: filtered_songs
+Song: 古龙群侠传
+Context:
+  - 从来情义难全难分
+  - 心上  总有疤痕
+  - 云破月白剑出 那一瞬
+
+==========
+# 5
+Singer: filtered_songs
+Song: 墨-为龙
+Context:
+  - 手心上 亘古的月光
+  - 那道伤 一笑而过的苍凉
+
+==========
+# 6
+Singer: filtered_songs
+Song: 刚烈女子
+Context:
+  - 我经历着 一生都坎坷
+  - 我藏着 心上最落寞
+  - 踉跄着想反驳
+
+==========
+# 7
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - 
+  - 心上渺渺
+  - （寥寥）
+
+==========
+# 8
+Singer: filtered_songs
+Song: 怀梦之泽
+Context:
+  - 【银临】：曾是我家国
+  - 【泠鸢】：谁掩饰心上
+  - 【泠鸢】：伤痕淋漓每一抹
+
+==========
+# 9
+Singer: filtered_songs
+Song: 花开眉侧
+Context:
+  - 却珍藏最懂我那个
+  - 或许心上来者
+  - 无其他颜色
+
+==========
+# 10
+Singer: filtered_songs
+Song: 迟迟
+Context:
+  - 你在人间，几时可曾见到他
+  - 他是心上，不是天上月皎然
+  - 吴天映雪光流转，教人不敢看
+
+==========
+# 11
+Singer: filtered_songs
+Song: 无题雪
+Context:
+  - 谨以此歌向历史中那对爱人致敬
+  - 我的心上人玉骨云衫
+  - 松风侠气两袖贪
+
+==========
+# 12
+Singer: filtered_songs
+Song: 月出
+Context:
+  - 各一方 君莫忘
+  - 绳结挂心上
+  - 天寒难捱风吹雪落荒漠边疆
+
+==========
+# 13
+Singer: filtered_songs
+Song: 寸缕
+Context:
+  - 在我对镜时亦嫌憔悴衣带宽陋
+  - 织丝成网 系无解的死结在我心上
+  - 结外空旷 余我呐喊听回声彷徨
+
+==========
+# 14
+Singer: filtered_songs
+Song: 晚夜微雨问海棠
+Context:
+  - 若赠魂灵我胸膛 年华暗换莫惆怅
+  - 你的模样刻心上 恰似此月光
+  - 照天地苍茫 却有花影成双
+
+==========
+# 15
+Singer: filtered_songs
+Song: 三行情诗
+Context:
+  - 藏于纸页中相传 为你流转
+  - 第三行写你心上的弦
+  - 编织着恒河沙数星点
+
+==========
+# 16
+Singer: filtered_songs
+Song: 万年斯
+Context:
+  - 精卫溺海长眠 衔木也要将它填满
+  - 嫦娥奔向月圆 成了谁心上婵娟
+  - 轻云蔽月临岸
+
+==========
+# 17
+Singer: filtered_songs
+Song: 玉簪记Remix
+Context:
+  - 多情犹似梦里身
+  - 竟惹风月心上生
+  - W：
+
+==========
+# 18
+Singer: filtered_songs
+Song: 望江亭
+Context:
+  - 独赴这危险之约
+  - 只为 心上 人儿
+  - 不再受痛苦折磨
+
+==========
+# 19
+Singer: filtered_songs
+Song: 永定四十年
+Context:
+  - 白露之后 寒夜霜降烦忧
+  - 是心上秋 不是纸上闲愁
+  - 长街十里谁曾相问 红尘奔走 冷暖知否
+
+==========
+# 20
+Singer: filtered_songs
+Song: 临川浮梦
+Context:
+  - 倏（shū）尔惊醒窗前霜雪凛夜 浊世淹过喉
+  - 梦在心上心便温柔
+  - 【星尘infinity】
+
+==========
+# 21
+Singer: filtered_songs
+Song: 未见青山老
+Context:
+  - 人间风月未相投
+  - 冷清心上剖 徒然再折春生柳
+  - 寒江水日复东流
+
+==========
+# 22
+Singer: filtered_songs
+Song: 怀梦之泽 copy
+Context:
+  - 【银临】：曾是我家国
+  - 【泠鸢】：谁掩饰心上
+  - 【泠鸢】：伤痕淋漓每一抹
+
+==========
+# 23
+Singer: filtered_songs
+Song: 宽窄巷
+Context:
+  - 檐下竹铃轻响一声声悠扬
+  - 跟着风落在心上
+  - 荏苒尘世浮光过客形色匆忙
+
+==========
+# 24
+Singer: filtered_songs
+Song: 红白
+Context:
+  - 才无谓附庸 只相遇过便觉痛快
+  - 投入红尘中 做某某心上不可触碰的月白
+  - 或是一记 朱砂般盛开
+
+==========
+# 25
+Singer: filtered_songs
+Song: 人间不值得
+Context:
+  - 夕阳熬红双眼 想等来晨钟聊聊天
+  - 心上人在梅边柳边 偏不在身边
+  - 小白蛇浇透临安 许仙却没带伞
+

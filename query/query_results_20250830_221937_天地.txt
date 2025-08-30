@@ -1,0 +1,439 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 万象霜天
+Context:
+  - 是弹指白驹的飞纵
+  - 是刹那朝菌的临终 待天地封冻可曾怨西风
+  - 
+
+==========
+# 2
+Singer: filtered_songs
+Song: 万梦星
+Context:
+  - 
+  - 是浪游天地放逐酣梦
+  - 合卷独往西关 不知所终
+
+==========
+# 3
+Singer: filtered_songs
+Song: 由此去
+Context:
+  - （江流忆）
+  - （天地醉梦短 由此去）
+  - 
+
+==========
+# 4
+Singer: filtered_songs
+Song: 不老梦
+Context:
+  - 
+  - 倏忽天地琉璃灯
+  - 光阴过处徒留皎月几盅
+
+==========
+# 5
+Singer: filtered_songs
+Song: 木兰行
+Context:
+  - 卸发拔剑舞，竟披戎服，慷慨奔赴
+  - 扬鞭策过江湖，仰望天地朝暮，黄沙涌没马足，随处是白骨
+  - 我见朔风吹拂，我见胡骑报复，都化作一剑出
+
+==========
+# 6
+Singer: filtered_songs
+Song: 飞雪落红尘
+Context:
+  - 【五音+小魂】
+  - 等我走过，寂寞长夜，岁月温柔天地旷远
+  - 只为在无人处与你并肩
+
+==========
+# 7
+Singer: filtered_songs
+Song: 琉璃
+Context:
+  - 像青鸟振翼 越过荒原冻雨
+  - 在金碧枷锁 在无垠天地
+  - 诉尽爱语
+
+==========
+# 8
+Singer: filtered_songs
+Song: 双生蝶
+Context:
+  - 几年挚友 一段情了 不可收
+  - 哦漏：这天地
+  - 阿Yueyue：千万里
+
+==========
+# 9
+Singer: filtered_songs
+Song: 古龙群侠传
+Context:
+  - 教山川颠倒 教地裂天崩
+  - 这天地我来撑
+  - 快平生
+
+==========
+# 10
+Singer: filtered_songs
+Song: 红尘共长生
+Context:
+  - 一息救孤魂 一命为苍生
+  - 心中纳天地何处容爱人
+  - 【吾恩】
+
+==========
+# 11
+Singer: filtered_songs
+Song: 燃尽人间色
+Context:
+  - 万象枯荣弹指间
+  - 天地为宴 河酒海窖
+  - 恰是此时开
+
+==========
+# 12
+Singer: filtered_songs
+Song: 珍珠
+Context:
+  - 随风旖旎为浪花半朵
+  - 你眼中奔涌天地广阔
+  - 我如何忘记呢
+
+==========
+# 13
+Singer: filtered_songs
+Song: 花与酒
+Context:
+  - 随人潮披甲而前，
+  - 天地剩我匆匆一眼。
+  - 既然看穿人心，看穿鬼神，
+
+==========
+# 14
+Singer: filtered_songs
+Song: 敢归云间宿
+Context:
+  - 心 生自混沌尽头
+  - 对 天地自斟自酬
+  - 诗随我 遍历春秋
+
+==========
+# 15
+Singer: filtered_songs
+Song: 竹林间
+Context:
+  - 一曲广陵世间听天下妄言
+  - 穷途独驾饮一杯天地盛筵
+  - 击节放歌时延揽清风袖间
+
+==========
+# 16
+Singer: filtered_songs
+Song: 青蛇
+Context:
+  - 此生有幸将梦修成伤
+  - 参透天地神佛最荒凉
+  - 情深十万花开一蕊 无处放
+
+==========
+# 17
+Singer: filtered_songs
+Song: 栖凰
+Context:
+  - 斯人已去
+  - 天地纵广
+  - 转眼又成几家沙场
+
+==========
+# 18
+Singer: filtered_songs
+Song: 秦淮河边的陈年往事
+Context:
+  - 铅华洗尽余风流，
+  - 自以浮生萍影，对天地悠悠。
+  - 夜来冷雨敲蓬舟，
+
+==========
+# 19
+Singer: filtered_songs
+Song: 风缘
+Context:
+  - 我辗转 踏过往日的杀机丛生
+  - 任凭天地 在吾脚下
+  - 俯首称臣
+
+==========
+# 20
+Singer: filtered_songs
+Song: 楚歌起
+Context:
+  - 「 要当人杰掀天地，要做鬼雄惊尘土 」
+  - 
+
+==========
+# 21
+Singer: filtered_songs
+Song: 千囍与手抄卷
+Context:
+  - 敢来娶我 定不负期望 掀起惊涛与骇浪
+  - 一拜天地 二拜了高堂 等不及入洞房
+  - 小子太狷狂 今日就教你 走不出这罗帐
+
+==========
+# 22
+Singer: filtered_songs
+Song: 流光记
+Context:
+  - 还要你 贴上太白金星的胡须
+  - 老街里跑过一圈 当周游天地
+  - 回来能讲三百个传奇
+
+==========
+# 23
+Singer: filtered_songs
+Song: 无题戏
+Context:
+  - 与他对望，平生不过三次。——题记
+  - 推窗未见烟雨 扑空在天地
+  - 行云撞破青山 点染成新迹
+
+==========
+# 24
+Singer: filtered_songs
+Song: 惊鹊
+Context:
+  - 【minus】
+  - 日高处群鹰流连，云舒云卷，天地初开篇
+  - 江山分合又离间，终究归少年
+
+==========
+# 25
+Singer: filtered_songs
+Song: 吹梦到西洲
+Context:
+  - 你与二十八宿皆回眸
+  - 系我 彩翼鲸尾红丝天地周
+  - 情之所至 此心 逍遥不游
+
+==========
+# 26
+Singer: filtered_songs
+Song: 始见千秋
+Context:
+  - 【合唱】
+  - 天地开，驰骋的车辙奔逐四海，
+  - 去远方或更远的关隘，
+
+==========
+# 27
+Singer: filtered_songs
+Song: 大雪藏刀
+Context:
+  - 天地间有人命运曾拼杀如刀
+  - 他志在荡平天下也放肆招摇
+
+==========
+# 28
+Singer: filtered_songs
+Song: 好字唯之
+Context:
+  - 或惊蛇 或游云 为谁羡
+  - 俯仰在天地 情随事迁
+  - 悲欢道寻常 俱不厌
+
+==========
+# 29
+Singer: filtered_songs
+Song: 一命矣
+Context:
+  - 你要亲手将痛撕成雪
+  - 挥师天地风如铁
+  - 人生背负重剑与诀别
+
+==========
+# 30
+Singer: filtered_songs
+Song: 青山揽梦
+Context:
+  - 百尺琴弦上，金蝴蝶纷纷扑朔
+  - 你吻过剑端将天地风光摇落
+  - 而后拈花趺坐 三生颠错
+
+==========
+# 31
+Singer: filtered_songs
+Song: 月出
+Context:
+  - 衣袖错勘身量遗落月白露光
+  - 原是天地冥冥斗转掀翻过往
+  - 芙蓉帐 桂花酿
+
+==========
+# 32
+Singer: filtered_songs
+Song: 失调名
+Context:
+  - 晚云含雨 霜风次第
+  - 湿了这天地 寻常而已
+  - 
+
+==========
+# 33
+Singer: filtered_songs
+Song: 云何住
+Context:
+  - 漫说故事也许会被改写
+  - 她离去时天地倏然落雪
+  - 是为埋葬一段风月
+
+==========
+# 34
+Singer: filtered_songs
+Song: 良辰夜
+Context:
+  - 我惊觉 今生相逢 是奔赴宿命之约
+  - 天地颠倒 一生还一夜
+  - 惟愿相思长 指间红线缠绕过 千千结
+
+==========
+# 35
+Singer: filtered_songs
+Song: 紫禁城里的似水流年
+Context:
+  - 那年的雪纷纷来
+  - 天地散开
+  - 后来雪落了一夜 一夜池馆苍苔
+
+==========
+# 36
+Singer: filtered_songs
+Song: 晚夜微雨问海棠
+Context:
+  - 你的模样刻心上 恰似此月光
+  - 照天地苍茫 却有花影成双
+  - 合：
+
+==========
+# 37
+Singer: filtered_songs
+Song: 腐草为萤
+Context:
+  - 清浅池塘边 重生破土的冲动
+  - 天地正玲珑 殡葬了飞虫
+  - 迢迢河汉间 有磷火坠地如彗锋
+
+==========
+# 38
+Singer: filtered_songs
+Song: 祖籁
+Context:
+  - 生生世世 追问无穷
+  - 天地何年 开鸿蒙
+  - 日月星辰 谁播种
+
+==========
+# 39
+Singer: filtered_songs
+Song: 多情岸（洛天依原创）
+Context:
+  - 日月只为有情人流转。
+  - 天地冥冥之中静待谁，如约而至得悄然，
+  - 只与我，相逢洛水之岸。
+
+==========
+# 40
+Singer: filtered_songs
+Song: 三情旧雪
+Context:
+  - 荒宫荒宫，从前倜傥，咽成喉间一口涩
+  - 薄纸、薄命、薄幸，天地几分无情几分震恸
+  - 痴狂、痴心、痴妄，还有不肯醒来一场痴梦
+
+==========
+# 41
+Singer: filtered_songs
+Song: 易水诀
+Context:
+  - 除却曾得知音你
+  - 浩然江海与苍茫天地
+  - 都将替我铭记
+
+==========
+# 42
+Singer: filtered_songs
+Song: 蝶梦
+Context:
+  - 你孤身 悲恨去
+  - 遥遥这天地
+  - 如何再相依
+
+==========
+# 43
+Singer: filtered_songs
+Song: 幻海同游
+Context:
+  - 弄月嘲风拭恨
+  - 向天地尽头的夜火舞蹈长奔
+  - 赴余生
+
+==========
+# 44
+Singer: filtered_songs
+Song: 泼墨漓江【茜色诗集】
+Context:
+  - 收不住过眼烟波 有甚感慨
+  - 消片刻天地宽 哪稀罕什么
+  - 扬名千万载
+
+==========
+# 45
+Singer: filtered_songs
+Song: 松烟入墨
+Context:
+  - 几欲腾空破壁，扶摇而去
+  - 将天地洞悉
+  - 
+
+==========
+# 46
+Singer: filtered_songs
+Song: 何必诗债换酒钱
+Context:
+  - 黄诗扶（妖扬）：
+  - 四角天地也醺然（四角天地也醺然）
+  - 醉极自有桃李搀（醉极自有桃李搀）
+
+==========
+# 47
+Singer: filtered_songs
+Song: 瀘沽寻梦
+Context:
+  - 我应是泸沽烟水里的过客
+  - 孑然弹铗 划天地开阖
+  - 邂逅过的 梦醒之余
+
+==========
+# 48
+Singer: filtered_songs
+Song: 红白
+Context:
+  - 她是尘与埃 命运交织 那一种颓败
+  - 等天地落红 心上晕开
+  - 她缓缓的走来 从容褪去这唇脂粉黛
+
+==========
+# 49
+Singer: filtered_songs
+Song: 倾尽天下
+Context:
+  - 怀抱中那 寂静的喧哗
+  - 风过天地肃杀
+  - 容华谢后 君临天下
+

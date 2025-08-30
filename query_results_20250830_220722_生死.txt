@@ -1,0 +1,143 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 木兰行
+Context:
+  - 此去衣冠翻覆，心性犹固，浩然称怒
+  - 何惧生死长物，一往前无
+
+==========
+# 2
+Singer: filtered_songs
+Song: 双生蝶
+Context:
+  - 爱一场蜉蝣
+  - 合：生死富贵 痴人病瘦
+  - 万般情浓也剔透
+
+==========
+# 3
+Singer: filtered_songs
+Song: 古龙群侠传
+Context:
+  - 胜负一触即分
+  - 生死只在方寸
+  - 风息花无声
+
+==========
+# 4
+Singer: filtered_songs
+Song: 依山观澜[无念白]
+Context:
+  - 莫道痴缠
+  - 今宵生死已经看淡
+  - 依山观天澜
+
+==========
+# 5
+Singer: filtered_songs
+Song: 敢归云间宿
+Context:
+  - 夜雨浇熄 往事残烛
+  - 生死间 谁尽兴谁辜负
+  - 管他醒来归何处 心生万物
+
+==========
+# 6
+Singer: filtered_songs
+Song: 山河人间【纯歌版】
+Context:
+  - 草木拓山意 笔墨结云根
+  - 但平生死事 不赎爱憎身
+  - 【燕麟】
+
+==========
+# 7
+Singer: filtered_songs
+Song: 栖凰
+Context:
+  - 影影幢幢
+  - 这生死场上
+  - 有谁真愿谁
+
+==========
+# 8
+Singer: filtered_songs
+Song: 业火苍云歌[纯歌版]
+Context:
+  - 胸怀凌云壮阔
+  - 历经生死劫破
+  - 荡尽乾坤浑浊
+
+==========
+# 9
+Singer: filtered_songs
+Song: 无题雪
+Context:
+  - 只要握紧双手就能心安
+  - 无妨濡沫比生死更难
+  - 我梦见业海吞空冷彻格桑路
+
+==========
+# 10
+Singer: filtered_songs
+Song: 万年斯
+Context:
+  - 塞外黄沙连天 奏一曲大漠孤烟
+  - 荔枝快马加鞭 生死却只在君一言
+  - 最怕一招离间 英雄难过美人关
+
+==========
+# 11
+Singer: filtered_songs
+Song: 腐草为萤
+Context:
+  - 迢迢河汉间 有磷火坠地如彗锋
+  - 奢望着 能生死相拥
+  - 于青萍之末 风露更婆娑
+
+==========
+# 12
+Singer: filtered_songs
+Song: 祖籁
+Context:
+  - 摇枝传钟 龙升凤舞 鬼神交相融
+  - 鼓乐声 穿过生死一重重
+  - 游鱼啊 渴望急流中翻涌
+
+==========
+# 13
+Singer: filtered_songs
+Song: 易水诀
+Context:
+  - 滚烫一点一滴
+  - 原来生死之交这命题
+  - 是毋庸许什么豪言誓语
+
+==========
+# 14
+Singer: filtered_songs
+Song: 夜奔
+Context:
+  - 汗淋如汤浇，心煎似火烧
+  - 生死应难料，劬劳悲号
+  - 
+
+==========
+# 15
+Singer: filtered_songs
+Song: 心上秋
+Context:
+  - 难道这情之一字
+  - 竟连抛生死亦不可探知
+  - 听说北国的那座城池
+
+==========
+# 16
+Singer: filtered_songs
+Song: 倾尽天下
+Context:
+  - 兵临城下六军不发
+  - 谁知再见已是 生死无话
+  - 当时缠过红线千匝
+

@@ -1,0 +1,97 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 上邪
+Context:
+  - 从此残阳烙我心上如朱砂
+  - 都说你眼中开倾世桃花
+  - 却如何一夕桃花雨下
+
+==========
+# 2
+Singer: filtered_songs
+Song: 小人间
+Context:
+  - 昭明九年，贺清淮第二回见江宝儿。少女不知从哪处跃出来，挑了一盏花灯照在他脸上：“贺大人，我夜观星象你我有缘。我觉得你长得像一朵桃花，衬我正好！”
+  - ——观风月·《上京轶闻录》
+
+==========
+# 3
+Singer: filtered_songs
+Song: 飞雪落红尘
+Context:
+  - 【小魂】
+  - 眼前桃花开谢，春秋交迭，不过一转念
+  - 从来仙寿何长，尘缘何短，几世不够看
+
+==========
+# 4
+Singer: filtered_songs
+Song: 忘川
+Context:
+  - 你一定就在我左岸
+  - 牵着手等一树桃花
+  - 生了枝桠
+
+==========
+# 5
+Singer: filtered_songs
+Song: 秦淮河边的陈年往事
+Context:
+  - 半生烟波，半生风波。
+  - 扇上桃花诗上柳，
+  - 秦淮旧客已非昨，
+
+==========
+# 6
+Singer: filtered_songs
+Song: 眉南边
+Context:
+  - 风情不在杨柳岸
+  - 风光不在桃花源
+  - 皆在人世间
+
+==========
+# 7
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 桃花煮酒 春风开宴
+  - 剑气侠气 典得几钱
+
+==========
+# 8
+Singer: filtered_songs
+Song: 黯然销魂
+Context:
+  - 
+  - 桃花绯雨故城
+  - 荡着烟波十里纷纷
+
+==========
+# 9
+Singer: filtered_songs
+Song: 狐言
+Context:
+  - 昆仑有姑娘我日思夜想
+  - 媚香楼畔桃花醉
+  - 胡言要闯荡
+
+==========
+# 10
+Singer: filtered_songs
+Song: 寻常歌
+Context:
+  - 
+  - 桃花都吹落，春秋都吹落
+  - 最懂竟是梦中那一刻
+
+==========
+# 11
+Singer: filtered_songs
+Song: 倾尽天下
+Context:
+  - 始终不过 一场繁华
+  - 碧血染就桃花
+  - 只想再见 你泪如雨下
+

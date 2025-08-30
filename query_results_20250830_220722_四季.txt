@@ -1,0 +1,54 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 依山观澜[无念白]
+Context:
+  - 断桥雪隐梅香探
+  - 四季轮回转
+  - 君子年少独凭栏
+
+==========
+# 2
+Singer: filtered_songs
+Song: 拉萨乱雪
+Context:
+  - 阳光雨下忽然出现飘雪
+  - 四季轮回之间明白了哪些
+  - 
+
+==========
+# 3
+Singer: filtered_songs
+Song: 无处不青山
+Context:
+  - 
+  - 无需碌碌而来 向四季处奔走
+  - 云海终会在 骄阳处停留
+
+==========
+# 4
+Singer: filtered_songs
+Song: 流光记
+Context:
+  - 回来能讲三百个传奇
+  - 春和秋 雪和雨 排成小四季
+  - 两个人 翻开书 没找到颜如玉
+
+==========
+# 5
+Singer: filtered_songs
+Song: 三行情诗
+Context:
+  - 第二行写你温暖的肩
+  - 拥抱过四季每个寒夜
+  - 它不愿眷顾我广袤的
+
+==========
+# 6
+Singer: filtered_songs
+Song: 山湖共语
+Context:
+  - 听细雨吹绵绵 今夜又喜来眠
+  - 听炊烟升浅浅 静观四季变迁
+  - 听山湖共语 传奇谈遍 书中人似擦肩
+

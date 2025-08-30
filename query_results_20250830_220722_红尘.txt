@@ -1,0 +1,366 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 青白
+Context:
+  - 白：
+  - 万丈红尘斑斓有心不要恋
+  - 换你慵然晓月晨烟不会倦
+
+==========
+# 2
+Singer: filtered_songs
+Song: 小人间
+Context:
+  - -
+  - 我偷在红尘耳边吵
+  - 簪花雪也算白首老
+
+==========
+# 3
+Singer: filtered_songs
+Song: 飞雪落红尘
+Context:
+  - 【三无+KB】
+  - 心有所念，皆成因缘，四散为红尘中浩荡飞雪
+  - 重逢之前，耳畔风月，远比万籁凛冽
+
+==========
+# 4
+Singer: filtered_songs
+Song: 千秋令
+Context:
+  - 合：
+  - 皓月长天 伴我翻阅红尘寂寞言
+  - 铁马金戈颤指尖
+
+==========
+# 5
+Singer: filtered_songs
+Song: 红尘共长生
+Context:
+  - 前世天涯客，今世赏花人
+  - 看倦长生都只为 看红尘
+  - 【合】
+
+==========
+# 6
+Singer: filtered_songs
+Song: 红尘
+Context:
+  - 红尘
+  - ――《欲・黑鸢》ED
+
+==========
+# 7
+Singer: filtered_songs
+Song: 花与酒
+Context:
+  - 獠牙在耳，万籁黄昏，
+  - 最动人，莫过喧嚣红尘。
+  - 翻越皑皑云顶，巍巍昆仑，
+
+==========
+# 8
+Singer: filtered_songs
+Song: 不良人
+Context:
+  - 温柔了杯中 三分明月落
+  - 红尘难看破 善恶无定夺
+  - 千秋怎落墨？
+
+==========
+# 9
+Singer: filtered_songs
+Song: 拉萨乱雪
+Context:
+  - 拉萨雪纷乱了几千年
+  - 安静的堆积到红尘湮灭
+  - 手中的香燃得明明暗暗
+
+==========
+# 10
+Singer: filtered_songs
+Song: 青蛇
+Context:
+  - 起起落落人海无风重重浪
+  - 颠倒红尘迷了迷离眼色香
+  - 我悠悠荡荡 稳睡风流帐
+
+==========
+# 11
+Singer: filtered_songs
+Song: 故事外的人
+Context:
+  - 我来自某片江河湖海
+  - 没留名红尘也没留名诗篇
+  - 倾倒过开元豪气英雄胆
+
+==========
+# 12
+Singer: filtered_songs
+Song: 山河人间【纯歌版】
+Context:
+  - 苍山对月枕 寒刃隔霜冷
+  - 白雪覆身 恰遇红尘
+  - 【秋宝】
+
+==========
+# 13
+Singer: filtered_songs
+Song: 赴鸿门
+Context:
+  - 不贪长生
+  - 贪红尘
+  - 
+
+==========
+# 14
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - 最怕欢情
+  - （错失了今夕人潮 红尘予我）
+  - 与君共偕老
+
+==========
+# 15
+Singer: filtered_songs
+Song: 眉南边
+Context:
+  - 
+  - 一碗红尘一盏烟
+  - 冷暖交杯是流年
+
+==========
+# 16
+Singer: filtered_songs
+Song: 海棠
+Context:
+  - 东风尚不忍
+  - 红尘入梦邀故人
+  - 雨落沉沉
+
+==========
+# 17
+Singer: filtered_songs
+Song: 第三十八年夏至
+Context:
+  - 一出纸醉金迷闹剧
+  - 一袭染尽红尘的衣
+  - 唱罢西厢谁盼得此生相许
+
+==========
+# 18
+Singer: filtered_songs
+Song: 青山揽梦
+Context:
+  - 十四桥风月恍惚 于你鬓边簌簌
+  - 你是红尘 梦卧青山南柯处
+
+==========
+# 19
+Singer: filtered_songs
+Song: 无题雪
+Context:
+  - 也可以挥刀见血眉不蹙
+  - 却无力撞开命运墙垣奔向红尘相逢处
+  - 衷情倾诉
+
+==========
+# 20
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 应君再向江湖觅重逢
+  - 重逢 红尘故人 山河新人 俱是梦中人
+  - 此间 残酒霜刃 杀尽风尘 俱是旧景深
+
+==========
+# 21
+Singer: filtered_songs
+Song: 黯然销魂
+Context:
+  - 相偎桃林醉闻晚风
+  - 抚琴对饮仗剑红尘
+  - 冬去春来寒暑几更
+
+==========
+# 22
+Singer: filtered_songs
+Song: 扶摇
+Context:
+  - 却难拨开人间迷雾
+  - 故事的脚步听过红尘倾诉
+  - 修归真返璞却得于事无补
+
+==========
+# 23
+Singer: filtered_songs
+Song: 寸缕
+Context:
+  - 至少够勇气被嗔痴左右
+  - 试想轮回红尘青丝白骨黄泉一切永无止休
+  - 三魂七魄都因你极尽温柔
+
+==========
+# 24
+Singer: filtered_songs
+Song: 纸伞
+Context:
+  - 一生相逢 一瞬心动 一双人
+  - 红尘滚滚 目送冬与春
+  - 遮开天与地 转眼各纷纷
+
+==========
+# 25
+Singer: filtered_songs
+Song: 天上掉下个林妹妹
+Context:
+  - 哪个不是忡忡一身病
+  - 愁根别种红尘墟，魂魄追去鸳鸯侣
+  - 相思簿上销姓名
+
+==========
+# 26
+Singer: filtered_songs
+Song: 晚夜微雨问海棠
+Context:
+  - 爱恨此消彼长 停步回望 我陪你同往
+  - 念想从未消亡 踏断红尘不肯相忘
+  - 飞上九天落千丈 为你闯一趟
+
+==========
+# 27
+Singer: filtered_songs
+Song: 三过门
+Context:
+  - 跨过第几扇门 才算造访过旧人
+  - 灯影憧憧 照不穿梦里红尘
+  - 浮光滚滚 怪我痴狂又愚蠢
+
+==========
+# 28
+Singer: filtered_songs
+Song: 三情旧雪
+Context:
+  - 痴狂、痴心、痴妄，还有不肯醒来一场痴梦
+  - 隐退红尘，浮生惊动，茫茫眉边鬓上风
+  - 俯首斑驳一滴泪，眼底心中
+
+==========
+# 29
+Singer: filtered_songs
+Song: 妄语人间
+Context:
+  - aaa～ aaa～（转音）
+  - 去白昼 红尘浪迹
+  - aaa～aaa～（转音）
+
+==========
+# 30
+Singer: filtered_songs
+Song: 永定四十年
+Context:
+  - 是心上秋 不是纸上闲愁
+  - 长街十里谁曾相问 红尘奔走 冷暖知否
+  - 零落此身 始知道天意无由
+
+==========
+# 31
+Singer: filtered_songs
+Song: 蝶梦
+Context:
+  - 
+  - 抛红尘 心欢喜
+  - 奔向你 青丝系
+
+==========
+# 32
+Singer: filtered_songs
+Song: 临川浮梦
+Context:
+  - 梦在心上心便温柔
+  - 黄粱酒尚温，孰醒孰梦深。拂面是红尘，亦幻亦当真
+
+==========
+# 33
+Singer: filtered_songs
+Song: 我的一个道姑朋友
+Context:
+  - 你竟然心动
+  - 所幸经年漂浮红尘中
+  - 这颗心已是千疮百孔
+
+==========
+# 34
+Singer: filtered_songs
+Song: 未见青山老
+Context:
+  - 应是难得风月人间事 踏浪乘舟
+  - 也曾笑做世外红尘客 随水逐流
+  - 醒后止于口 岂当得欲言还休
+
+==========
+# 35
+Singer: filtered_songs
+Song: 幻海同游
+Context:
+  - 
+  - 设迷情几桩，红尘烫 忌贪凉
+  - 摔碎金玉满堂
+
+==========
+# 36
+Singer: filtered_songs
+Song: 牵丝戏
+Context:
+  - 
+  - Aki：兰花指捻红尘似水
+  - 三尺红台 万事入歌吹
+
+==========
+# 37
+Singer: filtered_songs
+Song: 寻常歌
+Context:
+  - 如今太平世，繁华里空消磨
+  - 说到头还是，旧红尘看不破
+  - 风雨伸手遮，永别如何捱过
+
+==========
+# 38
+Singer: filtered_songs
+Song: 宽窄巷
+Context:
+  - 推开窗一卷时光
+  - 红尘熙攘故人相望风月且未变凉
+  - 走过宽街窄巷旧事浮尘飞荡
+
+==========
+# 39
+Singer: filtered_songs
+Song: 青白 copy
+Context:
+  - 白：
+  - 万丈红尘斑斓有心不要恋
+  - 换你慵然晓月晨烟不会倦
+
+==========
+# 40
+Singer: filtered_songs
+Song: 红白
+Context:
+  - 才无谓附庸 只相遇过便觉痛快
+  - 投入红尘中 做某某心上不可触碰的月白
+  - 或是一记 朱砂般盛开
+
+==========
+# 41
+Singer: filtered_songs
+Song: 九万字
+Context:
+  - 化名称为青春
+  - 红尘滚滚
+  - 
+

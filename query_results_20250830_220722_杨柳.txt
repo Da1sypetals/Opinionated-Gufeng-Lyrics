@@ -1,0 +1,53 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 过江寒
+Context:
+  - 关外也有关 我穿过层层叠叠城关
+  - 岸上还有岸 像极了江南温柔乡杨柳岸
+  - 船接着行船 水不急浪也不湍
+
+==========
+# 2
+Singer: filtered_songs
+Song: 簪花人间
+Context:
+  - 初遇是草长莺飞时节
+  - 婆娑之处杨柳新叶
+  - 恰逢东风抚你笑靥
+
+==========
+# 3
+Singer: filtered_songs
+Song: 依山观澜[无念白]
+Context:
+  - 唱：河图
+  - 莺鸣杨柳外
+  - 曲院风来荷花展
+
+==========
+# 4
+Singer: filtered_songs
+Song: 眉南边
+Context:
+  - 谁知
+  - 风情不在杨柳岸
+  - 风光不在桃花源
+
+==========
+# 5
+Singer: filtered_songs
+Song: 长相思
+Context:
+  - 残月光里 杨柳过手
+  - 碎风冷酒来透
+
+==========
+# 6
+Singer: filtered_songs
+Song: 何必诗债换酒钱
+Context:
+  - 三分典流水 润色枯瘦石山
+  - 又追着杨柳絮 弯过 小亭台
+  - 黄诗扶：
+

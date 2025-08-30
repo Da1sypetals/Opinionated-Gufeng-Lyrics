@@ -1,0 +1,180 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 簪花人间
+Context:
+  - 喜怒哀乐都惹得他人褒贬
+  - 皓月映长川 相思在长安
+  - 纵然是如画江山 有你才圆满
+
+==========
+# 2
+Singer: filtered_songs
+Song: 临安小记
+Context:
+  - 
+  - 赊三两相思红玉缀青衣
+  - 糯香漫溢方寸院邸
+
+==========
+# 3
+Singer: filtered_songs
+Song: 三月雨
+Context:
+  - 烟花碎
+  - 相思幕幕别离憔悴
+  - 绵绵春雨到无期
+
+==========
+# 4
+Singer: filtered_songs
+Song: 双生蝶
+Context:
+  - 阿Yueyue：这恩怨 是爱恨难分辨 是各自多亏欠 是黄粱梦散如烟
+  - 所谓情深浅 不过敢相思 却不敢相见
+  - 哦漏：若初时擦肩走也不必期盼挽留
+
+==========
+# 5
+Singer: filtered_songs
+Song: 红尘共长生
+Context:
+  - 符上朱砂痕 写来刻碑深
+  - 先忘前尘事再拜相思门
+  - 【吾恩】
+
+==========
+# 6
+Singer: filtered_songs
+Song: 青蛇
+Context:
+  - 
+  - 怪谁教我执意种相思
+  - 从此芸芸众生都相似
+
+==========
+# 7
+Singer: filtered_songs
+Song: 怜香伴
+Context:
+  - 见卿心欢
+  - 患相思平分各一半
+  - 般配比双眷
+
+==========
+# 8
+Singer: filtered_songs
+Song: 赴鸿门
+Context:
+  - 
+  - 相思设宴名叫鸿门
+  - 
+
+==========
+# 9
+Singer: filtered_songs
+Song: 迢迢
+Context:
+  - 他一笑 无痛亦无忧
+  - 要等谁 解一场相思的梦
+  - 
+
+==========
+# 10
+Singer: filtered_songs
+Song: 林妹妹
+Context:
+  - 王：浮世尽随烟云烧 沧海万顷系江潮
+  - （木石有心谁无情） 相思极处天知晓
+  - 
+
+==========
+# 11
+Singer: filtered_songs
+Song: 吹梦到西洲
+Context:
+  - 既玄冥不可量北斗
+  - 却何信相思最温柔
+  - 顾盼花发鸿蒙 怦然而梦
+
+==========
+# 12
+Singer: filtered_songs
+Song: 千盏灯 [纯歌版]
+Context:
+  - 剑影和刀光里
+  - 相思藏几分
+  - 小祈&佑可猫：
+
+==========
+# 13
+Singer: filtered_songs
+Song: 良辰夜
+Context:
+  - 天地颠倒 一生还一夜
+  - 惟愿相思长 指间红线缠绕过 千千结
+  - 愿与他作漫天星月 不作别
+
+==========
+# 14
+Singer: filtered_songs
+Song: 天上掉下个林妹妹
+Context:
+  - 离恨天上这般没情没趣
+  - 披个因缘就闯人间相思地
+  - 
+
+==========
+# 15
+Singer: filtered_songs
+Song: 多情岸（洛天依原创）
+Context:
+  - 那时众生弃我于尘寰，早已宠辱无关，
+  - 只剩相思在余生辗转。
+  - 明明似曾相识的顾盼，却如初见般璀璨，
+
+==========
+# 16
+Singer: filtered_songs
+Song: 落霞云归
+Context:
+  - 
+  - 一舞白刃 七弦谁听 相思如酒醉花荫
+  - 乱世怎不能多情 踏平 来路崎岖
+
+==========
+# 17
+Singer: filtered_songs
+Song: 蝶梦
+Context:
+  - (哎 梁兄你 ）
+  - 听不出 相思意
+  - 来晚了 良缘尽
+
+==========
+# 18
+Singer: filtered_songs
+Song: 心上诗
+Context:
+  - 料想相逢也如是
+  - 落笔依稀在相思
+  - 
+
+==========
+# 19
+Singer: filtered_songs
+Song: 泼墨漓江【茜色诗集】
+Context:
+  - 月落天白 船动莲开
+  - 任古今相思作一传 仍是不爱
+  - 水流山黛 风卷云来
+
+==========
+# 20
+Singer: filtered_songs
+Song: 心上秋
+Context:
+  - 夜半无人处，对月展卷时
+  - 忽然看懂这相思
+  - 落款谁提了名字
+

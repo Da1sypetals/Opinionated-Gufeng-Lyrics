@@ -1,0 +1,180 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 山僧
+Context:
+  - 青藓着袖 言说生于佛口
+  - 不及朝暮 不见春秋
+  - 却缓步阶上唐楼 等白云苍狗
+
+==========
+# 2
+Singer: filtered_songs
+Song: 飞雪落红尘
+Context:
+  - 【小魂】
+  - 眼前桃花开谢，春秋交迭，不过一转念
+  - 从来仙寿何长，尘缘何短，几世不够看
+
+==========
+# 3
+Singer: filtered_songs
+Song: 逐浪飞花
+Context:
+  - 有人说 江湖是开了一坛陈酒
+  - 蕴藏春秋才敢敬旧敌新友
+  - 纵然一剑在手
+
+==========
+# 4
+Singer: filtered_songs
+Song: 红尘
+Context:
+  - 烽烟铁骑 金戈铿锵风里
+  - 春秋几季 何人把离人忆
+  - 醉别烟雨 回首云淡风轻
+
+==========
+# 5
+Singer: filtered_songs
+Song: 敢归云间宿
+Context:
+  - 对 天地自斟自酬
+  - 诗随我 遍历春秋
+  - 
+
+==========
+# 6
+Singer: filtered_songs
+Song: 故事外的人
+Context:
+  - 
+  - 春秋排队去长亭告别
+  - 柳折尽灞桥故人挤满阳关
+
+==========
+# 7
+Singer: filtered_songs
+Song: 无处不青山
+Context:
+  - 
+  - 我坐晚亭望春秋
+  - 与客船等清昼
+
+==========
+# 8
+Singer: filtered_songs
+Song: 一首想不通的古风
+Context:
+  - 女：
+  - 一朝春秋 折扇谁来弄
+  - 笑问山河谁坐拥
+
+==========
+# 9
+Singer: filtered_songs
+Song: 眉南边
+Context:
+  - 
+  - 市巷招展 春秋漫卷
+  - 折腰 折煞 第一眼
+
+==========
+# 10
+Singer: filtered_songs
+Song: 裁梦为魂
+Context:
+  - 苍梧白头北岸
+  - 春秋信笺俱烧与南辕
+  - 窃喜于寂寞人间
+
+==========
+# 11
+Singer: filtered_songs
+Song: 有鹿来
+Context:
+  - 最后我们都会坐孤船 行至人罕
+  - 那些沿途的春秋冷暖 再见亦难
+  - 临水忘川 总觉月落比日出更好看
+
+==========
+# 12
+Singer: filtered_songs
+Song: 吹梦到西洲
+Context:
+  - （妖扬）
+  - 无何化有 感物知春秋
+  - 秋毫濡沫欲绸缪 搦管相留
+
+==========
+# 13
+Singer: filtered_songs
+Song: 好字唯之
+Context:
+  - 嘲是这乌纱曾错戴
+  - 幸而纸上春秋 留过几行隶楷
+  - 
+
+==========
+# 14
+Singer: filtered_songs
+Song: 青山揽梦
+Context:
+  - 千年后翻飞烟波 眉间洒落星河
+  - 双眸之中 还有春秋载不动
+  - 
+
+==========
+# 15
+Singer: filtered_songs
+Song: 旷古回响
+Context:
+  - 燃犀照目如澄镜 辨诸恶
+  - 也 怕  春秋寂寞
+  - 趁椒花在枝且倾杯作乐
+
+==========
+# 16
+Singer: filtered_songs
+Song: 沈园外
+Context:
+  - 像当初的怀中
+  - 隔太多春秋会不能相拥
+  - 还没到开满花
+
+==========
+# 17
+Singer: filtered_songs
+Song: 腐草为萤
+Context:
+  - 还以为此刻 恰逢因果
+  - 是春秋开落 或夤夜闪烁
+  - 哪个更值得 一错再错
+
+==========
+# 18
+Singer: filtered_songs
+Song: 三情旧雪
+Context:
+  - 风雪一块旧疤，时代刻痕刀下磨
+  - 当年纸上咳朱紫，春秋窖里泻金波
+  - 人间稳坐风光，主人不来拜神佛
+
+==========
+# 19
+Singer: filtered_songs
+Song: 弦外知音
+Context:
+  - 
+  - 也曾想弹一曲春秋
+  - 与谁共饮酒  唱几句铜臭
+
+==========
+# 20
+Singer: filtered_songs
+Song: 寻常歌
+Context:
+  - 
+  - 桃花都吹落，春秋都吹落
+  - 最懂竟是梦中那一刻
+

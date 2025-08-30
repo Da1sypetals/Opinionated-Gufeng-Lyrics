@@ -1,0 +1,315 @@
+==========
+# 1
+Singer: filtered_songs
+Song: 红拂夜奔
+Context:
+  - 甩下灯火 穿过长安长
+  - 偶遇少年郎 谁是谁惊鸿一场
+  - 追心上月亮
+
+==========
+# 2
+Singer: filtered_songs
+Song: 山花寻海树
+Context:
+  - 一座透明围墙
+  - 隔别开少年情莽伤恨无妨
+  - 留念回响
+
+==========
+# 3
+Singer: filtered_songs
+Song: 由此去
+Context:
+  - 雪融白浪飞
+  - 少年苍发尾
+  - 春风忽然吹 卷起了衣袂
+
+==========
+# 4
+Singer: filtered_songs
+Song: 飞雪落红尘
+Context:
+  - 银鞍白马踏遍，千里苍凉雪
+  - 自是饮尘世间，不知多少年
+  - 【五音】
+
+==========
+# 5
+Singer: filtered_songs
+Song: 琉璃
+Context:
+  - 当你明了 所有的 谜底呀
+  - 寓居在 少年人的动心
+  - 你多荒诞不经 多鲜活 多昳丽
+
+==========
+# 6
+Singer: filtered_songs
+Song: 千秋令
+Context:
+  - 合：
+  - 天纵少年 总该倚竹畅饮好云烟
+  - 风华羡尽俗人眼
+
+==========
+# 7
+Singer: filtered_songs
+Song: 珍珠
+Context:
+  - 每段荡气回肠
+  - 少年成为他想要的模样
+  - 就是岁月最好奖赏
+
+==========
+# 8
+Singer: filtered_songs
+Song: 花与酒
+Context:
+  - 重逢在，人间花与酒。
+  - 多少年春风桃李，挑灯看夜雨，
+  - 若传奇当重启，浮生也不寂。
+
+==========
+# 9
+Singer: filtered_songs
+Song: 竹林间
+Context:
+  - 便推开烦恼与尘喧
+  - 便还是当时的少年
+  - 
+
+==========
+# 10
+Singer: filtered_songs
+Song: 故事外的人
+Context:
+  - 海报：驭鬼
+  - 书里的游侠总是少年
+  - 不必要行囊只把西风一卷
+
+==========
+# 11
+Singer: filtered_songs
+Song: 若风起时
+Context:
+  - 一圈如青丝
+  - （吻）绾住少年心事
+  - 
+
+==========
+# 12
+Singer: filtered_songs
+Song: 栖凰
+Context:
+  - 却还要我当
+  - 纵马白衣少年郎
+  - 残棋停在掌上
+
+==========
+# 13
+Singer: filtered_songs
+Song: 秦淮河边的陈年往事
+Context:
+  - -Music-
+  - 雨中不似少年愁，
+  - 阖窗闭目听水流，
+
+==========
+# 14
+Singer: filtered_songs
+Song: 眉南边
+Context:
+  - 遮颜 遮眼 看不见
+  - 王孙公子 多情少年
+  - 谁在眉南边
+
+==========
+# 15
+Singer: filtered_songs
+Song: 千囍与手抄卷
+Context:
+  - 
+  - 从前有个少年郎 深闺模样
+  - 说是做文章 定是绣鸳鸯
+
+==========
+# 16
+Singer: filtered_songs
+Song: 青山有剑
+Context:
+  - 长留住春日尽头
+  - 八岁那年，我被它从满场少年里选中，成了青山掌门的关门弟子。
+  - 它是我的剑，它叫春雨。
+
+==========
+# 17
+Singer: filtered_songs
+Song: 惊鹊
+Context:
+  - 日高处群鹰流连，云舒云卷，天地初开篇
+  - 江山分合又离间，终究归少年
+  - 【合】
+
+==========
+# 18
+Singer: filtered_songs
+Song: 怀梦之泽
+Context:
+  - 【合】：如何能堪破
+  - 【合】：多少年之后
+  - 【合】：有没有人曾问过
+
+==========
+# 19
+Singer: filtered_songs
+Song: 迟迟
+Context:
+  - 
+  - 长情的人，想少年的梦做完
+  - 滚滚的川，把梦中的人倾翻
+
+==========
+# 20
+Singer: filtered_songs
+Song: 千盏灯 [纯歌版]
+Context:
+  - 匆匆此身
+  - 繁花桥头少年人
+  - 飞红乱纷纷
+
+==========
+# 21
+Singer: filtered_songs
+Song: 好字唯之
+Context:
+  - 西客来东床 我自随便
+  - 行世趁兴致 枉少年
+  - 妙法在鹅身 怎窥见
+
+==========
+# 22
+Singer: filtered_songs
+Song: 载梦行舟
+Context:
+  - 天下风流赊欠
+  - 最是无价少年
+  - 温酒一盏 泼长天敬霄汉
+
+==========
+# 23
+Singer: filtered_songs
+Song: 千秋迭梦（和声伴奏）
+Context:
+  - 满一盏意气几分
+  - 少年心气盛
+  - 【合唱】
+
+==========
+# 24
+Singer: filtered_songs
+Song: 如见青山
+Context:
+  - 此间便与人间无关
+  - 少年大才赴京华，方及弱冠
+  - 一袭僧袍返庐山，经年修禅
+
+==========
+# 25
+Singer: filtered_songs
+Song: 画廊游记
+Context:
+  - 我看到五岁稚童眸中点星芒
+  - 十八岁少年阳光下剪影如残像
+  - 青年人被岁月推着走过场
+
+==========
+# 26
+Singer: filtered_songs
+Song: 纸伞
+Context:
+  - 半为美梦半为真
+  - 伞下的人 来去多少年轮
+  - 雨声声 敲打懵懂和天真
+
+==========
+# 27
+Singer: filtered_songs
+Song: 白马入芦花
+Context:
+  - 忽抬眼 晴翠成荒烟
+  - 少年曾出长安道 籍籍入荒野
+  - 塞鸿偶驮泉下魂 残碑负深雪
+
+==========
+# 28
+Singer: filtered_songs
+Song: 晚夜微雨问海棠
+Context:
+  - 热切能与天光相当 轻唤我回神一望
+  - 眼前少年 携段春光
+  - 未曾想 人世变幻有多无常
+
+==========
+# 29
+Singer: filtered_songs
+Song: 予君书
+Context:
+  - 而后佳人及笄
+  - 少年行加冠之礼
+  - 旧忆仍可觅
+
+==========
+# 30
+Singer: filtered_songs
+Song: 人间应又雪
+Context:
+  - 将别不敢回首，雪重（zhong）冷月明
+  - 少年书郎，相顾鬓 如 星
+  - 何以曾经 夜 深 梦闲人，迟迟不梦君
+
+==========
+# 31
+Singer: filtered_songs
+Song: 易水诀
+Context:
+  - 倾十分孤勇 步无归命局
+  - 明朝少年邀同醉 白头人间何处你
+  - 浮生旧事多不值一提
+
+==========
+# 32
+Singer: filtered_songs
+Song: 永定四十年
+Context:
+  - 于意云何 青衫旧我自侧帽风流
+  - 打马过闹市少年白首
+  - 人声之外明月左右 河汉浅浅 星辰清秀
+
+==========
+# 33
+Singer: filtered_songs
+Song: 临川浮梦
+Context:
+  - 梦过知音千樽酒 知交共白头 知苦与恨皆休
+  - 一生快哉风里舟 最顽心不改少年游
+  - 倏（shū）尔惊醒窗前霜雪凛夜 浊世淹过喉
+
+==========
+# 34
+Singer: filtered_songs
+Song: 怀梦之泽 copy
+Context:
+  - 【合】：如何能堪破
+  - 【合】：多少年之后
+  - 【合】：有没有人曾问过
+
+==========
+# 35
+Singer: filtered_songs
+Song: 九万字
+Context:
+  - 
+  - 有谁不是 少年热诚
+  - 孑然一身 爱一个人
+

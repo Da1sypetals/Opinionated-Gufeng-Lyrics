@@ -189,15 +189,6 @@ Context:
 ==========
 # 22
 Singer: filtered_songs
-Song: 怀梦之泽 copy
-Context:
-  - 【银临】：曾是我家国
-  - 【泠鸢】：谁掩饰心上
-  - 【泠鸢】：伤痕淋漓每一抹
-
-==========
-# 23
-Singer: filtered_songs
 Song: 宽窄巷
 Context:
   - 檐下竹铃轻响一声声悠扬
@@ -205,7 +196,7 @@ Context:
   - 荏苒尘世浮光过客形色匆忙
 
 ==========
-# 24
+# 23
 Singer: filtered_songs
 Song: 红白
 Context:
@@ -214,7 +205,7 @@ Context:
   - 或是一记 朱砂般盛开
 
 ==========
-# 25
+# 24
 Singer: filtered_songs
 Song: 人间不值得
 Context:

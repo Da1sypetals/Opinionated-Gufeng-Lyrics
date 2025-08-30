@@ -340,15 +340,6 @@ Context:
 ==========
 # 39
 Singer: filtered_songs
-Song: 青白 copy
-Context:
-  - 白：
-  - 万丈红尘斑斓有心不要恋
-  - 换你慵然晓月晨烟不会倦
-
-==========
-# 40
-Singer: filtered_songs
 Song: 红白
 Context:
   - 才无谓附庸 只相遇过便觉痛快
@@ -356,7 +347,7 @@ Context:
   - 或是一记 朱砂般盛开
 
 ==========
-# 41
+# 40
 Singer: filtered_songs
 Song: 九万字
 Context:

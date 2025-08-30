@@ -207,15 +207,6 @@ Context:
 ==========
 # 24
 Singer: filtered_songs
-Song: 怀梦之泽 copy
-Context:
-  - 【银临】：云垂中跋涉
-  - 【银临】：心被故人牵动
-  - 【银临】：却不肯牵扯
-
-==========
-# 25
-Singer: filtered_songs
 Song: 宽窄巷
 Context:
   - 推开窗一卷时光
@@ -223,7 +214,7 @@ Context:
   - 走过宽街窄巷旧事浮尘飞荡
 
 ==========
-# 26
+# 25
 Singer: filtered_songs
 Song: 心上秋
 Context:

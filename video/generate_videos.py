@@ -138,7 +138,7 @@ def make_song_video(song, index):
 
     # ========== part3 (歌名 + 歌手) ==========
     part3 = f"{base_name}_part3.mp4"
-    text = f"{song.name}\\n{song.singer}"
+    text = f"{song.name}\n{song.singer}"
     cmd3 = [
         "ffmpeg",
         "-y",
